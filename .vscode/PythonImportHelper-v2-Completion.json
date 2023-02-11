@@ -1,0 +1,2243 @@
+[
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "this",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "this",
+        "description": "this",
+        "detail": "this",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "easy_print_101",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "easy_print_101",
+        "description": "easy_print_101",
+        "detail": "easy_print_101",
+        "documentation": {}
+    },
+    {
+        "label": "fast_alphabet_103",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "fast_alphabet_103",
+        "description": "fast_alphabet_103",
+        "detail": "fast_alphabet_103",
+        "documentation": {}
+    },
+    {
+        "label": "ctypes",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "csv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv",
+        "description": "csv",
+        "detail": "csv",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "models.base",
+        "description": "models.base",
+        "isExtraImport": true,
+        "detail": "models.base",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "models.base",
+        "description": "models.base",
+        "isExtraImport": true,
+        "detail": "models.base",
+        "documentation": {}
+    },
+    {
+        "label": "Rectangle",
+        "importPath": "models.rectangle",
+        "description": "models.rectangle",
+        "isExtraImport": true,
+        "detail": "models.rectangle",
+        "documentation": {}
+    },
+    {
+        "label": "Rectangle",
+        "importPath": "models.rectangle",
+        "description": "models.rectangle",
+        "isExtraImport": true,
+        "detail": "models.rectangle",
+        "documentation": {}
+    },
+    {
+        "label": "Rectangle",
+        "importPath": "models.rectangle",
+        "description": "models.rectangle",
+        "isExtraImport": true,
+        "detail": "models.rectangle",
+        "documentation": {}
+    },
+    {
+        "label": "rectangle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "rectangle",
+        "description": "rectangle",
+        "detail": "rectangle",
+        "documentation": {}
+    },
+    {
+        "label": "Square",
+        "importPath": "models.square",
+        "description": "models.square",
+        "isExtraImport": true,
+        "detail": "models.square",
+        "documentation": {}
+    },
+    {
+        "label": "Square",
+        "importPath": "models.square",
+        "description": "models.square",
+        "isExtraImport": true,
+        "detail": "models.square",
+        "documentation": {}
+    },
+    {
+        "label": "StringIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "StringIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "pep8",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pep8",
+        "description": "pep8",
+        "detail": "pep8",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "magic_calculation",
+        "kind": 2,
+        "importPath": "0x00-python-hello_world.102-magic_calculation",
+        "description": "0x00-python-hello_world.102-magic_calculation",
+        "peekOfCode": "def magic_calculation(a, b):\n    return (98 + a ** b)",
+        "detail": "0x00-python-hello_world.102-magic_calculation",
+        "documentation": {}
+    },
+    {
+        "label": "number",
+        "kind": 5,
+        "importPath": "0x00-python-hello_world.3-print_number",
+        "description": "0x00-python-hello_world.3-print_number",
+        "peekOfCode": "number = 98\nprint(f\"{number:d} Battery street\")",
+        "detail": "0x00-python-hello_world.3-print_number",
+        "documentation": {}
+    },
+    {
+        "label": "number",
+        "kind": 5,
+        "importPath": "0x00-python-hello_world.4-print_float",
+        "description": "0x00-python-hello_world.4-print_float",
+        "peekOfCode": "number = 3.14159\nprint(f\"Float: {number:.2f}\")",
+        "detail": "0x00-python-hello_world.4-print_float",
+        "documentation": {}
+    },
+    {
+        "label": "str",
+        "kind": 5,
+        "importPath": "0x00-python-hello_world.5-print_string",
+        "description": "0x00-python-hello_world.5-print_string",
+        "peekOfCode": "str = \"Holberton School\"\nprint(str*3)\nprint(str[:9])",
+        "detail": "0x00-python-hello_world.5-print_string",
+        "documentation": {}
+    },
+    {
+        "label": "str1",
+        "kind": 5,
+        "importPath": "0x00-python-hello_world.6-concat",
+        "description": "0x00-python-hello_world.6-concat",
+        "peekOfCode": "str1 = \"Holberton\"\nstr2 = \"School\"\nstr1 = str1 + \" \" + str2\nprint(\"Welcome to {}!\".format(str1))",
+        "detail": "0x00-python-hello_world.6-concat",
+        "documentation": {}
+    },
+    {
+        "label": "str2",
+        "kind": 5,
+        "importPath": "0x00-python-hello_world.6-concat",
+        "description": "0x00-python-hello_world.6-concat",
+        "peekOfCode": "str2 = \"School\"\nstr1 = str1 + \" \" + str2\nprint(\"Welcome to {}!\".format(str1))",
+        "detail": "0x00-python-hello_world.6-concat",
+        "documentation": {}
+    },
+    {
+        "label": "str1",
+        "kind": 5,
+        "importPath": "0x00-python-hello_world.6-concat",
+        "description": "0x00-python-hello_world.6-concat",
+        "peekOfCode": "str1 = str1 + \" \" + str2\nprint(\"Welcome to {}!\".format(str1))",
+        "detail": "0x00-python-hello_world.6-concat",
+        "documentation": {}
+    },
+    {
+        "label": "word",
+        "kind": 5,
+        "importPath": "0x00-python-hello_world.7-edges",
+        "description": "0x00-python-hello_world.7-edges",
+        "peekOfCode": "word = \"Holberton\"\nword_first_3 = word[:3]\nword_last_2 = word[-2:]\nmiddle_word = word[1:-1]\nprint(\"First 3 letters: {}\".format(word_first_3))\nprint(\"Last 2 letters: {}\".format(word_last_2))\nprint(\"Middle word: {}\".format(middle_word))",
+        "detail": "0x00-python-hello_world.7-edges",
+        "documentation": {}
+    },
+    {
+        "label": "word_first_3",
+        "kind": 5,
+        "importPath": "0x00-python-hello_world.7-edges",
+        "description": "0x00-python-hello_world.7-edges",
+        "peekOfCode": "word_first_3 = word[:3]\nword_last_2 = word[-2:]\nmiddle_word = word[1:-1]\nprint(\"First 3 letters: {}\".format(word_first_3))\nprint(\"Last 2 letters: {}\".format(word_last_2))\nprint(\"Middle word: {}\".format(middle_word))",
+        "detail": "0x00-python-hello_world.7-edges",
+        "documentation": {}
+    },
+    {
+        "label": "word_last_2",
+        "kind": 5,
+        "importPath": "0x00-python-hello_world.7-edges",
+        "description": "0x00-python-hello_world.7-edges",
+        "peekOfCode": "word_last_2 = word[-2:]\nmiddle_word = word[1:-1]\nprint(\"First 3 letters: {}\".format(word_first_3))\nprint(\"Last 2 letters: {}\".format(word_last_2))\nprint(\"Middle word: {}\".format(middle_word))",
+        "detail": "0x00-python-hello_world.7-edges",
+        "documentation": {}
+    },
+    {
+        "label": "middle_word",
+        "kind": 5,
+        "importPath": "0x00-python-hello_world.7-edges",
+        "description": "0x00-python-hello_world.7-edges",
+        "peekOfCode": "middle_word = word[1:-1]\nprint(\"First 3 letters: {}\".format(word_first_3))\nprint(\"Last 2 letters: {}\".format(word_last_2))\nprint(\"Middle word: {}\".format(middle_word))",
+        "detail": "0x00-python-hello_world.7-edges",
+        "documentation": {}
+    },
+    {
+        "label": "str",
+        "kind": 5,
+        "importPath": "0x00-python-hello_world.8-concat_edges",
+        "description": "0x00-python-hello_world.8-concat_edges",
+        "peekOfCode": "str = \"Python is an interpreted, interactive, object-oriented programming\\\n language that combines remarkable power with very clear syntax\"\nstr = str[39:67] + str[107:112] + str[:6]\nprint(str)",
+        "detail": "0x00-python-hello_world.8-concat_edges",
+        "documentation": {}
+    },
+    {
+        "label": "str",
+        "kind": 5,
+        "importPath": "0x00-python-hello_world.8-concat_edges",
+        "description": "0x00-python-hello_world.8-concat_edges",
+        "peekOfCode": "str = str[39:67] + str[107:112] + str[:6]\nprint(str)",
+        "detail": "0x00-python-hello_world.8-concat_edges",
+        "documentation": {}
+    },
+    {
+        "label": "number",
+        "kind": 5,
+        "importPath": "0x01-python-if_else_loops_functions.0-positive_or_negative",
+        "description": "0x01-python-if_else_loops_functions.0-positive_or_negative",
+        "peekOfCode": "number = random.randint(-10, 10)\nif number > 0:\n    print(\"{:d} is positive\".format(number))\nelif number == 0:\n    print(\"{:d} is zero\".format(number))\nelse:\n    print(\"{:d} is negative\".format(number))",
+        "detail": "0x01-python-if_else_loops_functions.0-positive_or_negative",
+        "documentation": {}
+    },
+    {
+        "label": "number",
+        "kind": 5,
+        "importPath": "0x01-python-if_else_loops_functions.1-last_digit",
+        "description": "0x01-python-if_else_loops_functions.1-last_digit",
+        "peekOfCode": "number = random.randint(-10000, 10000)\nif number >= 0:\n    l_digit = number % 10\nelse:\n    l_digit = number % -10\nprint(\"Last digit of {} is {}\".format(number, l_digit), end='')\nif l_digit > 5:\n    print(\" and is greater than 5\")\nelif l_digit == 0:\n    print(\" and is 0\")",
+        "detail": "0x01-python-if_else_loops_functions.1-last_digit",
+        "documentation": {}
+    },
+    {
+        "label": "add",
+        "kind": 2,
+        "importPath": "0x01-python-if_else_loops_functions.10-add",
+        "description": "0x01-python-if_else_loops_functions.10-add",
+        "peekOfCode": "def add(a, b):\n    return (a + b)",
+        "detail": "0x01-python-if_else_loops_functions.10-add",
+        "documentation": {}
+    },
+    {
+        "label": "remove_char_at",
+        "kind": 2,
+        "importPath": "0x01-python-if_else_loops_functions.101-remove_char_at",
+        "description": "0x01-python-if_else_loops_functions.101-remove_char_at",
+        "peekOfCode": "def remove_char_at(str, n):\n    s = \"\"\n    for i in range(len(str)):\n        if i != n:\n            s = s + str[i]\n    return (s)",
+        "detail": "0x01-python-if_else_loops_functions.101-remove_char_at",
+        "documentation": {}
+    },
+    {
+        "label": "magic_calculation",
+        "kind": 2,
+        "importPath": "0x01-python-if_else_loops_functions.102-magic_calculation",
+        "description": "0x01-python-if_else_loops_functions.102-magic_calculation",
+        "peekOfCode": "def magic_calculation(a, b, c):\n    if (a < b):\n        return (c)\n    elif (c > b):\n        return (a + b)\n    else:\n        return (a * b - c)",
+        "detail": "0x01-python-if_else_loops_functions.102-magic_calculation",
+        "documentation": {}
+    },
+    {
+        "label": "pow",
+        "kind": 2,
+        "importPath": "0x01-python-if_else_loops_functions.11-pow",
+        "description": "0x01-python-if_else_loops_functions.11-pow",
+        "peekOfCode": "def pow(a, b):\n    return (a ** b)",
+        "detail": "0x01-python-if_else_loops_functions.11-pow",
+        "documentation": {}
+    },
+    {
+        "label": "fizzbuzz",
+        "kind": 2,
+        "importPath": "0x01-python-if_else_loops_functions.12-fizzbuzz",
+        "description": "0x01-python-if_else_loops_functions.12-fizzbuzz",
+        "peekOfCode": "def fizzbuzz():\n    for i in range(1, 101):\n        if i % 3 == 0 and i % 5 == 0:\n            print(\"FizzBuzz\", end='')\n        elif i % 3 == 0:\n            print(\"Fizz\", end='')\n        elif i % 5 == 0:\n            print(\"Buzz\", end='')\n        else:\n            print(i, end='')",
+        "detail": "0x01-python-if_else_loops_functions.12-fizzbuzz",
+        "documentation": {}
+    },
+    {
+        "label": "islower",
+        "kind": 2,
+        "importPath": "0x01-python-if_else_loops_functions.7-islower",
+        "description": "0x01-python-if_else_loops_functions.7-islower",
+        "peekOfCode": "def islower(c):\n    if ord(c) >= 97 and ord(c) <= 122:\n        return (True)\n    else:\n        return (False)",
+        "detail": "0x01-python-if_else_loops_functions.7-islower",
+        "documentation": {}
+    },
+    {
+        "label": "uppercase",
+        "kind": 2,
+        "importPath": "0x01-python-if_else_loops_functions.8-uppercase",
+        "description": "0x01-python-if_else_loops_functions.8-uppercase",
+        "peekOfCode": "def uppercase(str):\n    for i in range(len(str)):\n        if ord(str[i]) >= 97 and ord(str[i]) <= 122:\n            num = 32\n        else:\n            num = 0\n        print(\"{:c}\".format(ord(str[i]) - num), end='')\n    print()",
+        "detail": "0x01-python-if_else_loops_functions.8-uppercase",
+        "documentation": {}
+    },
+    {
+        "label": "print_last_digit",
+        "kind": 2,
+        "importPath": "0x01-python-if_else_loops_functions.9-print_last_digit",
+        "description": "0x01-python-if_else_loops_functions.9-print_last_digit",
+        "peekOfCode": "def print_last_digit(number):\n    if number >= 0:\n        l_digit = number % 10\n    else:\n        l_digit = number % -10\n        l_digit *= -1\n    print(\"{:d}\".format(l_digit), end='')\n    return (l_digit)",
+        "detail": "0x01-python-if_else_loops_functions.9-print_last_digit",
+        "documentation": {}
+    },
+    {
+        "label": "magic_calculation",
+        "kind": 2,
+        "importPath": "0x02-python-import_modules.102-magic_calculation",
+        "description": "0x02-python-import_modules.102-magic_calculation",
+        "peekOfCode": "def magic_calculation(a, b):\n    from magic_calculation_102 import add, sub\n    if a < b:\n        c = add(a, b)\n        for i in range(4, 6):\n            c = add(c, i)\n        return (c)\n    else:\n        return (sub(a, b))",
+        "detail": "0x02-python-import_modules.102-magic_calculation",
+        "documentation": {}
+    },
+    {
+        "label": "add",
+        "kind": 2,
+        "importPath": "0x02-python-import_modules.add_0",
+        "description": "0x02-python-import_modules.add_0",
+        "peekOfCode": "def add(a, b):\n    \"\"\"My addition function\n    Args:\n        a: first integer\n        b: second integer\n    Returns:\n        The return value. a + b\n    \"\"\"\n    return (a + b)",
+        "detail": "0x02-python-import_modules.add_0",
+        "documentation": {}
+    },
+    {
+        "label": "add",
+        "kind": 2,
+        "importPath": "0x02-python-import_modules.calculator_1",
+        "description": "0x02-python-import_modules.calculator_1",
+        "peekOfCode": "def add(a, b):\n    \"\"\"My addition function\n    Args:\n        a: first integer\n        b: second integer\n    Returns:\n        The return value. a + b\n    \"\"\"\n    return (a + b)\ndef sub(a, b):",
+        "detail": "0x02-python-import_modules.calculator_1",
+        "documentation": {}
+    },
+    {
+        "label": "sub",
+        "kind": 2,
+        "importPath": "0x02-python-import_modules.calculator_1",
+        "description": "0x02-python-import_modules.calculator_1",
+        "peekOfCode": "def sub(a, b):\n    \"\"\"My subtraction function\n    Args:\n        a: first integer\n        b: second integer\n    Returns:\n        The return value. a - b\n    \"\"\"\n    return (a - b)\ndef mul(a, b):",
+        "detail": "0x02-python-import_modules.calculator_1",
+        "documentation": {}
+    },
+    {
+        "label": "mul",
+        "kind": 2,
+        "importPath": "0x02-python-import_modules.calculator_1",
+        "description": "0x02-python-import_modules.calculator_1",
+        "peekOfCode": "def mul(a, b):\n    \"\"\"My multiplication function\n    Args:\n        a: first integer\n        b: second integer\n    Returns:\n        The return value. a * b\n    \"\"\"\n    return (a * b)\ndef div(a, b):",
+        "detail": "0x02-python-import_modules.calculator_1",
+        "documentation": {}
+    },
+    {
+        "label": "div",
+        "kind": 2,
+        "importPath": "0x02-python-import_modules.calculator_1",
+        "description": "0x02-python-import_modules.calculator_1",
+        "peekOfCode": "def div(a, b):\n    \"\"\"My division function\n    Args:\n        a: first integer\n        b: second integer\n    Returns:\n        The return value. a / b\n    \"\"\"\n    return int(a / b)",
+        "detail": "0x02-python-import_modules.calculator_1",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "0x02-python-import_modules.variable_load_5",
+        "description": "0x02-python-import_modules.variable_load_5",
+        "peekOfCode": "a = 98\n\"\"\"Simple variable\n\"\"\"",
+        "detail": "0x02-python-import_modules.variable_load_5",
+        "documentation": {}
+    },
+    {
+        "label": "print_list_integer",
+        "kind": 5,
+        "importPath": "0x03-python-data_structures.0-main",
+        "description": "0x03-python-data_structures.0-main",
+        "peekOfCode": "print_list_integer = __import__('0-print_list_integer').print_list_integer\nmy_list = [1, 2, 3, 4, 5]\nprint_list_integer(my_list)",
+        "detail": "0x03-python-data_structures.0-main",
+        "documentation": {}
+    },
+    {
+        "label": "my_list",
+        "kind": 5,
+        "importPath": "0x03-python-data_structures.0-main",
+        "description": "0x03-python-data_structures.0-main",
+        "peekOfCode": "my_list = [1, 2, 3, 4, 5]\nprint_list_integer(my_list)",
+        "detail": "0x03-python-data_structures.0-main",
+        "documentation": {}
+    },
+    {
+        "label": "print_list_integer",
+        "kind": 2,
+        "importPath": "0x03-python-data_structures.0-print_list_integer",
+        "description": "0x03-python-data_structures.0-print_list_integer",
+        "peekOfCode": "def print_list_integer(my_list=[]):\n    for i in my_list:\n        print('{:d}'.format(i))",
+        "detail": "0x03-python-data_structures.0-print_list_integer",
+        "documentation": {}
+    },
+    {
+        "label": "element_at",
+        "kind": 2,
+        "importPath": "0x03-python-data_structures.1-element_at",
+        "description": "0x03-python-data_structures.1-element_at",
+        "peekOfCode": "def element_at(my_list, idx):\n    return(my_list[idx] if 0 <= idx < len(my_list) else \"None\")",
+        "detail": "0x03-python-data_structures.1-element_at",
+        "documentation": {}
+    },
+    {
+        "label": "divisible_by_2",
+        "kind": 2,
+        "importPath": "0x03-python-data_structures.10-divisible_by_2",
+        "description": "0x03-python-data_structures.10-divisible_by_2",
+        "peekOfCode": "def divisible_by_2(my_list=[]):\n    boolist = my_list[:]\n    for count, i in enumerate(my_list):\n        if i % 2 == 0:\n            boolist[count] = True\n        else:\n            boolist[count] = False\n    return(boolist)",
+        "detail": "0x03-python-data_structures.10-divisible_by_2",
+        "documentation": {}
+    },
+    {
+        "label": "lib",
+        "kind": 5,
+        "importPath": "0x03-python-data_structures.100-print_python_list_info",
+        "description": "0x03-python-data_structures.100-print_python_list_info",
+        "peekOfCode": "lib = ctypes.CDLL('./libPyList.so')\nlib.print_python_list_info.argtypes = [ctypes.py_object]\nl = ['hello', 'World']\nlib.print_python_list_info(l)\ndel l[1]\nlib.print_python_list_info(l)\nl = l + [4, 5, 6.0, (9, 8), [9, 8, 1024], \"Holberton\"]\nlib.print_python_list_info(l)\nl = []\nlib.print_python_list_info(l)",
+        "detail": "0x03-python-data_structures.100-print_python_list_info",
+        "documentation": {}
+    },
+    {
+        "label": "lib.print_python_list_info.argtypes",
+        "kind": 5,
+        "importPath": "0x03-python-data_structures.100-print_python_list_info",
+        "description": "0x03-python-data_structures.100-print_python_list_info",
+        "peekOfCode": "lib.print_python_list_info.argtypes = [ctypes.py_object]\nl = ['hello', 'World']\nlib.print_python_list_info(l)\ndel l[1]\nlib.print_python_list_info(l)\nl = l + [4, 5, 6.0, (9, 8), [9, 8, 1024], \"Holberton\"]\nlib.print_python_list_info(l)\nl = []\nlib.print_python_list_info(l)\nl.append(0)",
+        "detail": "0x03-python-data_structures.100-print_python_list_info",
+        "documentation": {}
+    },
+    {
+        "label": "l",
+        "kind": 5,
+        "importPath": "0x03-python-data_structures.100-print_python_list_info",
+        "description": "0x03-python-data_structures.100-print_python_list_info",
+        "peekOfCode": "l = ['hello', 'World']\nlib.print_python_list_info(l)\ndel l[1]\nlib.print_python_list_info(l)\nl = l + [4, 5, 6.0, (9, 8), [9, 8, 1024], \"Holberton\"]\nlib.print_python_list_info(l)\nl = []\nlib.print_python_list_info(l)\nl.append(0)\nlib.print_python_list_info(l)",
+        "detail": "0x03-python-data_structures.100-print_python_list_info",
+        "documentation": {}
+    },
+    {
+        "label": "l",
+        "kind": 5,
+        "importPath": "0x03-python-data_structures.100-print_python_list_info",
+        "description": "0x03-python-data_structures.100-print_python_list_info",
+        "peekOfCode": "l = l + [4, 5, 6.0, (9, 8), [9, 8, 1024], \"Holberton\"]\nlib.print_python_list_info(l)\nl = []\nlib.print_python_list_info(l)\nl.append(0)\nlib.print_python_list_info(l)\nl.append(1)\nl.append(2)\nl.append(3)\nl.append(4)",
+        "detail": "0x03-python-data_structures.100-print_python_list_info",
+        "documentation": {}
+    },
+    {
+        "label": "l",
+        "kind": 5,
+        "importPath": "0x03-python-data_structures.100-print_python_list_info",
+        "description": "0x03-python-data_structures.100-print_python_list_info",
+        "peekOfCode": "l = []\nlib.print_python_list_info(l)\nl.append(0)\nlib.print_python_list_info(l)\nl.append(1)\nl.append(2)\nl.append(3)\nl.append(4)\nlib.print_python_list_info(l)\nl.pop()",
+        "detail": "0x03-python-data_structures.100-print_python_list_info",
+        "documentation": {}
+    },
+    {
+        "label": "delete_at",
+        "kind": 2,
+        "importPath": "0x03-python-data_structures.11-delete_at",
+        "description": "0x03-python-data_structures.11-delete_at",
+        "peekOfCode": "def delete_at(my_list=[], idx=0):\n    if 0 <= idx < len(my_list):\n        del(my_list[idx])\n    return(my_list)",
+        "detail": "0x03-python-data_structures.11-delete_at",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "0x03-python-data_structures.12-switch",
+        "description": "0x03-python-data_structures.12-switch",
+        "peekOfCode": "a = 89\nb = 10\na, b = b, a\nprint(\"a={:d} - b={:d}\".format(a, b))",
+        "detail": "0x03-python-data_structures.12-switch",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "0x03-python-data_structures.12-switch",
+        "description": "0x03-python-data_structures.12-switch",
+        "peekOfCode": "b = 10\na, b = b, a\nprint(\"a={:d} - b={:d}\".format(a, b))",
+        "detail": "0x03-python-data_structures.12-switch",
+        "documentation": {}
+    },
+    {
+        "label": "replace_in_list",
+        "kind": 2,
+        "importPath": "0x03-python-data_structures.2-replace_in_list",
+        "description": "0x03-python-data_structures.2-replace_in_list",
+        "peekOfCode": "def replace_in_list(my_list, idx, element):\n    if 0 <= idx < len(my_list):\n        my_list[idx] = element\n    return(my_list)",
+        "detail": "0x03-python-data_structures.2-replace_in_list",
+        "documentation": {}
+    },
+    {
+        "label": "print_reversed_list_integer",
+        "kind": 2,
+        "importPath": "0x03-python-data_structures.3-print_reversed_list_integer",
+        "description": "0x03-python-data_structures.3-print_reversed_list_integer",
+        "peekOfCode": "def print_reversed_list_integer(my_list=[]):\n    if my_list is None:\n        return\n    for i in reversed(my_list):\n        print('{:d}'.format(i))",
+        "detail": "0x03-python-data_structures.3-print_reversed_list_integer",
+        "documentation": {}
+    },
+    {
+        "label": "new_in_list",
+        "kind": 2,
+        "importPath": "0x03-python-data_structures.4-new_in_list",
+        "description": "0x03-python-data_structures.4-new_in_list",
+        "peekOfCode": "def new_in_list(my_list, idx, element):\n    tmp_list = my_list[:]\n    if 0 <= idx < len(my_list):\n        tmp_list[idx] = element\n        return(tmp_list)\n    return(my_list)",
+        "detail": "0x03-python-data_structures.4-new_in_list",
+        "documentation": {}
+    },
+    {
+        "label": "no_c",
+        "kind": 2,
+        "importPath": "0x03-python-data_structures.5-no_c",
+        "description": "0x03-python-data_structures.5-no_c",
+        "peekOfCode": "def no_c(my_string):\n    new_str = \"\"\n    for i in my_string:\n        if i is not 'c' and i is not 'C':\n            new_str += i\n    return (new_str)\n# return my_string.translate({ord(c): None for c in \"cC\"})",
+        "detail": "0x03-python-data_structures.5-no_c",
+        "documentation": {}
+    },
+    {
+        "label": "print_matrix_integer",
+        "kind": 2,
+        "importPath": "0x03-python-data_structures.6-print_matrix_integer",
+        "description": "0x03-python-data_structures.6-print_matrix_integer",
+        "peekOfCode": "def print_matrix_integer(matrix=[[]]):\n    for i in matrix:\n        print(' '.join('{:d}'.format(j)for j in i))",
+        "detail": "0x03-python-data_structures.6-print_matrix_integer",
+        "documentation": {}
+    },
+    {
+        "label": "add_tuple",
+        "kind": 2,
+        "importPath": "0x03-python-data_structures.7-add_tuple",
+        "description": "0x03-python-data_structures.7-add_tuple",
+        "peekOfCode": "def add_tuple(tuple_a=(), tuple_b=()):\n    tuple_a += (0, 0)\n    tuple_b += (0, 0)\n    return(tuple_a[0] + tuple_b[0], tuple_a[1] + tuple_b[1])",
+        "detail": "0x03-python-data_structures.7-add_tuple",
+        "documentation": {}
+    },
+    {
+        "label": "multiple_returns",
+        "kind": 2,
+        "importPath": "0x03-python-data_structures.8-multiple_returns",
+        "description": "0x03-python-data_structures.8-multiple_returns",
+        "peekOfCode": "def multiple_returns(sentence):\n    length = len(sentence)\n    first_char = sentence[0] if length > 0 else \"None\"\n    tup = length, first_char\n    return(tup)",
+        "detail": "0x03-python-data_structures.8-multiple_returns",
+        "documentation": {}
+    },
+    {
+        "label": "max_integer",
+        "kind": 2,
+        "importPath": "0x03-python-data_structures.9-max_integer",
+        "description": "0x03-python-data_structures.9-max_integer",
+        "peekOfCode": "def max_integer(my_list=[]):\n    if len(my_list) == 0:\n        return (\"None\")\n    x = my_list[0]\n    for i in my_list:\n        if i > x:\n            x = i\n    return (x)",
+        "detail": "0x03-python-data_structures.9-max_integer",
+        "documentation": {}
+    },
+    {
+        "label": "square_matrix_simple",
+        "kind": 2,
+        "importPath": "0x04-python-more_data_structures.0-square_matrix_simple",
+        "description": "0x04-python-more_data_structures.0-square_matrix_simple",
+        "peekOfCode": "def square_matrix_simple(matrix=[]):\n    tmp = []\n    for x in matrix:\n        tmp.append(list(map(lambda x: x**2, x)))\n    return (tmp)",
+        "detail": "0x04-python-more_data_structures.0-square_matrix_simple",
+        "documentation": {}
+    },
+    {
+        "label": "search_replace",
+        "kind": 2,
+        "importPath": "0x04-python-more_data_structures.1-search_replace",
+        "description": "0x04-python-more_data_structures.1-search_replace",
+        "peekOfCode": "def search_replace(my_list, search, replace):\n    return (list(map(lambda x: replace if x is search else x, my_list)))",
+        "detail": "0x04-python-more_data_structures.1-search_replace",
+        "documentation": {}
+    },
+    {
+        "label": "best_score",
+        "kind": 2,
+        "importPath": "0x04-python-more_data_structures.10-best_score",
+        "description": "0x04-python-more_data_structures.10-best_score",
+        "peekOfCode": "def best_score(my_dict):\n    if my_dict is None or my_dict == {}:\n        return None\n    biggest = max(my_dict.values())\n    for key, value in my_dict.items():\n        if value is biggest:\n            return key",
+        "detail": "0x04-python-more_data_structures.10-best_score",
+        "documentation": {}
+    },
+    {
+        "label": "weight_average",
+        "kind": 2,
+        "importPath": "0x04-python-more_data_structures.100-weight_average",
+        "description": "0x04-python-more_data_structures.100-weight_average",
+        "peekOfCode": "def weight_average(my_list=[]):\n    if my_list == [] or my_list is None:\n        return (0)\n    res = 0\n    res2 = 0\n    for x, y in my_list:\n        res += x * y\n        res2 += y\n    return (res / res2)",
+        "detail": "0x04-python-more_data_structures.100-weight_average",
+        "documentation": {}
+    },
+    {
+        "label": "square_matrix_map",
+        "kind": 2,
+        "importPath": "0x04-python-more_data_structures.101-square_matrix_map",
+        "description": "0x04-python-more_data_structures.101-square_matrix_map",
+        "peekOfCode": "def square_matrix_map(matrix=[]):\n    return (list(map(lambda r: list(map(lambda x: x**2, r)), matrix)))",
+        "detail": "0x04-python-more_data_structures.101-square_matrix_map",
+        "documentation": {}
+    },
+    {
+        "label": "complex_delete",
+        "kind": 2,
+        "importPath": "0x04-python-more_data_structures.102-complex_delete",
+        "description": "0x04-python-more_data_structures.102-complex_delete",
+        "peekOfCode": "def complex_delete(my_dict, value):\n    targets = []\n    for key, key_value in my_dict.items():\n        if key_value is value:\n            targets.append(key)\n    for x in targets:\n        del my_dict[x]\n    return(my_dict)",
+        "detail": "0x04-python-more_data_structures.102-complex_delete",
+        "documentation": {}
+    },
+    {
+        "label": "lib",
+        "kind": 5,
+        "importPath": "0x04-python-more_data_structures.103-python",
+        "description": "0x04-python-more_data_structures.103-python",
+        "peekOfCode": "lib = ctypes.CDLL('./libPython.so')\nlib.print_python_list.argtypes = [ctypes.py_object]\nlib.print_python_bytes.argtypes = [ctypes.py_object]\ns = b\"Hello\"\nlib.print_python_bytes(s);\nb = b'\\xff\\xf8\\x00\\x00\\x00\\x00\\x00\\x00';\nlib.print_python_bytes(b);\nb = b'What does the \\'b\\' character do in front of a string literal?';\nlib.print_python_bytes(b);\nl = [b'Hello', b'World']",
+        "detail": "0x04-python-more_data_structures.103-python",
+        "documentation": {}
+    },
+    {
+        "label": "lib.print_python_list.argtypes",
+        "kind": 5,
+        "importPath": "0x04-python-more_data_structures.103-python",
+        "description": "0x04-python-more_data_structures.103-python",
+        "peekOfCode": "lib.print_python_list.argtypes = [ctypes.py_object]\nlib.print_python_bytes.argtypes = [ctypes.py_object]\ns = b\"Hello\"\nlib.print_python_bytes(s);\nb = b'\\xff\\xf8\\x00\\x00\\x00\\x00\\x00\\x00';\nlib.print_python_bytes(b);\nb = b'What does the \\'b\\' character do in front of a string literal?';\nlib.print_python_bytes(b);\nl = [b'Hello', b'World']\nlib.print_python_list(l)",
+        "detail": "0x04-python-more_data_structures.103-python",
+        "documentation": {}
+    },
+    {
+        "label": "lib.print_python_bytes.argtypes",
+        "kind": 5,
+        "importPath": "0x04-python-more_data_structures.103-python",
+        "description": "0x04-python-more_data_structures.103-python",
+        "peekOfCode": "lib.print_python_bytes.argtypes = [ctypes.py_object]\ns = b\"Hello\"\nlib.print_python_bytes(s);\nb = b'\\xff\\xf8\\x00\\x00\\x00\\x00\\x00\\x00';\nlib.print_python_bytes(b);\nb = b'What does the \\'b\\' character do in front of a string literal?';\nlib.print_python_bytes(b);\nl = [b'Hello', b'World']\nlib.print_python_list(l)\ndel l[1]",
+        "detail": "0x04-python-more_data_structures.103-python",
+        "documentation": {}
+    },
+    {
+        "label": "s",
+        "kind": 5,
+        "importPath": "0x04-python-more_data_structures.103-python",
+        "description": "0x04-python-more_data_structures.103-python",
+        "peekOfCode": "s = b\"Hello\"\nlib.print_python_bytes(s);\nb = b'\\xff\\xf8\\x00\\x00\\x00\\x00\\x00\\x00';\nlib.print_python_bytes(b);\nb = b'What does the \\'b\\' character do in front of a string literal?';\nlib.print_python_bytes(b);\nl = [b'Hello', b'World']\nlib.print_python_list(l)\ndel l[1]\nlib.print_python_list(l)",
+        "detail": "0x04-python-more_data_structures.103-python",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "0x04-python-more_data_structures.103-python",
+        "description": "0x04-python-more_data_structures.103-python",
+        "peekOfCode": "b = b'\\xff\\xf8\\x00\\x00\\x00\\x00\\x00\\x00';\nlib.print_python_bytes(b);\nb = b'What does the \\'b\\' character do in front of a string literal?';\nlib.print_python_bytes(b);\nl = [b'Hello', b'World']\nlib.print_python_list(l)\ndel l[1]\nlib.print_python_list(l)\nl = l + [4, 5, 6.0, (9, 8), [9, 8, 1024], b\"Holberton\", \"Betty\"]\nlib.print_python_list(l)",
+        "detail": "0x04-python-more_data_structures.103-python",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "0x04-python-more_data_structures.103-python",
+        "description": "0x04-python-more_data_structures.103-python",
+        "peekOfCode": "b = b'What does the \\'b\\' character do in front of a string literal?';\nlib.print_python_bytes(b);\nl = [b'Hello', b'World']\nlib.print_python_list(l)\ndel l[1]\nlib.print_python_list(l)\nl = l + [4, 5, 6.0, (9, 8), [9, 8, 1024], b\"Holberton\", \"Betty\"]\nlib.print_python_list(l)\nl = []\nlib.print_python_list(l)",
+        "detail": "0x04-python-more_data_structures.103-python",
+        "documentation": {}
+    },
+    {
+        "label": "l",
+        "kind": 5,
+        "importPath": "0x04-python-more_data_structures.103-python",
+        "description": "0x04-python-more_data_structures.103-python",
+        "peekOfCode": "l = [b'Hello', b'World']\nlib.print_python_list(l)\ndel l[1]\nlib.print_python_list(l)\nl = l + [4, 5, 6.0, (9, 8), [9, 8, 1024], b\"Holberton\", \"Betty\"]\nlib.print_python_list(l)\nl = []\nlib.print_python_list(l)\nl.append(0)\nlib.print_python_list(l)",
+        "detail": "0x04-python-more_data_structures.103-python",
+        "documentation": {}
+    },
+    {
+        "label": "l",
+        "kind": 5,
+        "importPath": "0x04-python-more_data_structures.103-python",
+        "description": "0x04-python-more_data_structures.103-python",
+        "peekOfCode": "l = l + [4, 5, 6.0, (9, 8), [9, 8, 1024], b\"Holberton\", \"Betty\"]\nlib.print_python_list(l)\nl = []\nlib.print_python_list(l)\nl.append(0)\nlib.print_python_list(l)\nl.append(1)\nl.append(2)\nl.append(3)\nl.append(4)",
+        "detail": "0x04-python-more_data_structures.103-python",
+        "documentation": {}
+    },
+    {
+        "label": "l",
+        "kind": 5,
+        "importPath": "0x04-python-more_data_structures.103-python",
+        "description": "0x04-python-more_data_structures.103-python",
+        "peekOfCode": "l = []\nlib.print_python_list(l)\nl.append(0)\nlib.print_python_list(l)\nl.append(1)\nl.append(2)\nl.append(3)\nl.append(4)\nlib.print_python_list(l)\nl.pop()",
+        "detail": "0x04-python-more_data_structures.103-python",
+        "documentation": {}
+    },
+    {
+        "label": "l",
+        "kind": 5,
+        "importPath": "0x04-python-more_data_structures.103-python",
+        "description": "0x04-python-more_data_structures.103-python",
+        "peekOfCode": "l = [\"Holberton\"]\nlib.print_python_list(l)\nlib.print_python_bytes(l);",
+        "detail": "0x04-python-more_data_structures.103-python",
+        "documentation": {}
+    },
+    {
+        "label": "lib",
+        "kind": 5,
+        "importPath": "0x04-python-more_data_structures.103-tests",
+        "description": "0x04-python-more_data_structures.103-tests",
+        "peekOfCode": "lib = ctypes.CDLL('./libPython.so')\nlib.print_python_list.argtypes = [ctypes.py_object]\nlib.print_python_bytes.argtypes = [ctypes.py_object]\ns = b\"Hello\"\nlib.print_python_bytes(s);\nb = b'\\xff\\xf8\\x00\\x00\\x00\\x00\\x00\\x00';\nlib.print_python_bytes(b);\nb = b'What does the \\'b\\' character do in front of a string literal?';\nlib.print_python_bytes(b);\nl = [b'Hello', b'World']",
+        "detail": "0x04-python-more_data_structures.103-tests",
+        "documentation": {}
+    },
+    {
+        "label": "lib.print_python_list.argtypes",
+        "kind": 5,
+        "importPath": "0x04-python-more_data_structures.103-tests",
+        "description": "0x04-python-more_data_structures.103-tests",
+        "peekOfCode": "lib.print_python_list.argtypes = [ctypes.py_object]\nlib.print_python_bytes.argtypes = [ctypes.py_object]\ns = b\"Hello\"\nlib.print_python_bytes(s);\nb = b'\\xff\\xf8\\x00\\x00\\x00\\x00\\x00\\x00';\nlib.print_python_bytes(b);\nb = b'What does the \\'b\\' character do in front of a string literal?';\nlib.print_python_bytes(b);\nl = [b'Hello', b'World']\nlib.print_python_list(l)",
+        "detail": "0x04-python-more_data_structures.103-tests",
+        "documentation": {}
+    },
+    {
+        "label": "lib.print_python_bytes.argtypes",
+        "kind": 5,
+        "importPath": "0x04-python-more_data_structures.103-tests",
+        "description": "0x04-python-more_data_structures.103-tests",
+        "peekOfCode": "lib.print_python_bytes.argtypes = [ctypes.py_object]\ns = b\"Hello\"\nlib.print_python_bytes(s);\nb = b'\\xff\\xf8\\x00\\x00\\x00\\x00\\x00\\x00';\nlib.print_python_bytes(b);\nb = b'What does the \\'b\\' character do in front of a string literal?';\nlib.print_python_bytes(b);\nl = [b'Hello', b'World']\nlib.print_python_list(l)\ndel l[1]",
+        "detail": "0x04-python-more_data_structures.103-tests",
+        "documentation": {}
+    },
+    {
+        "label": "s",
+        "kind": 5,
+        "importPath": "0x04-python-more_data_structures.103-tests",
+        "description": "0x04-python-more_data_structures.103-tests",
+        "peekOfCode": "s = b\"Hello\"\nlib.print_python_bytes(s);\nb = b'\\xff\\xf8\\x00\\x00\\x00\\x00\\x00\\x00';\nlib.print_python_bytes(b);\nb = b'What does the \\'b\\' character do in front of a string literal?';\nlib.print_python_bytes(b);\nl = [b'Hello', b'World']\nlib.print_python_list(l)\ndel l[1]\nlib.print_python_list(l)",
+        "detail": "0x04-python-more_data_structures.103-tests",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "0x04-python-more_data_structures.103-tests",
+        "description": "0x04-python-more_data_structures.103-tests",
+        "peekOfCode": "b = b'\\xff\\xf8\\x00\\x00\\x00\\x00\\x00\\x00';\nlib.print_python_bytes(b);\nb = b'What does the \\'b\\' character do in front of a string literal?';\nlib.print_python_bytes(b);\nl = [b'Hello', b'World']\nlib.print_python_list(l)\ndel l[1]\nlib.print_python_list(l)\nl = l + [4, 5, 6.0, (9, 8), [9, 8, 1024], b\"Holberton\", \"Betty\"]\nlib.print_python_list(l)",
+        "detail": "0x04-python-more_data_structures.103-tests",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "0x04-python-more_data_structures.103-tests",
+        "description": "0x04-python-more_data_structures.103-tests",
+        "peekOfCode": "b = b'What does the \\'b\\' character do in front of a string literal?';\nlib.print_python_bytes(b);\nl = [b'Hello', b'World']\nlib.print_python_list(l)\ndel l[1]\nlib.print_python_list(l)\nl = l + [4, 5, 6.0, (9, 8), [9, 8, 1024], b\"Holberton\", \"Betty\"]\nlib.print_python_list(l)\nl = []\nlib.print_python_list(l)",
+        "detail": "0x04-python-more_data_structures.103-tests",
+        "documentation": {}
+    },
+    {
+        "label": "l",
+        "kind": 5,
+        "importPath": "0x04-python-more_data_structures.103-tests",
+        "description": "0x04-python-more_data_structures.103-tests",
+        "peekOfCode": "l = [b'Hello', b'World']\nlib.print_python_list(l)\ndel l[1]\nlib.print_python_list(l)\nl = l + [4, 5, 6.0, (9, 8), [9, 8, 1024], b\"Holberton\", \"Betty\"]\nlib.print_python_list(l)\nl = []\nlib.print_python_list(l)\nl.append(0)\nlib.print_python_list(l)",
+        "detail": "0x04-python-more_data_structures.103-tests",
+        "documentation": {}
+    },
+    {
+        "label": "l",
+        "kind": 5,
+        "importPath": "0x04-python-more_data_structures.103-tests",
+        "description": "0x04-python-more_data_structures.103-tests",
+        "peekOfCode": "l = l + [4, 5, 6.0, (9, 8), [9, 8, 1024], b\"Holberton\", \"Betty\"]\nlib.print_python_list(l)\nl = []\nlib.print_python_list(l)\nl.append(0)\nlib.print_python_list(l)\nl.append(1)\nl.append(2)\nl.append(3)\nl.append(4)",
+        "detail": "0x04-python-more_data_structures.103-tests",
+        "documentation": {}
+    },
+    {
+        "label": "l",
+        "kind": 5,
+        "importPath": "0x04-python-more_data_structures.103-tests",
+        "description": "0x04-python-more_data_structures.103-tests",
+        "peekOfCode": "l = []\nlib.print_python_list(l)\nl.append(0)\nlib.print_python_list(l)\nl.append(1)\nl.append(2)\nl.append(3)\nl.append(4)\nlib.print_python_list(l)\nl.pop()",
+        "detail": "0x04-python-more_data_structures.103-tests",
+        "documentation": {}
+    },
+    {
+        "label": "l",
+        "kind": 5,
+        "importPath": "0x04-python-more_data_structures.103-tests",
+        "description": "0x04-python-more_data_structures.103-tests",
+        "peekOfCode": "l = [\"Holberton\"]\nlib.print_python_list(l)\nlib.print_python_bytes(l);\njulien@ubuntu:~/CPython$ python3 103-tests.py \n[.] bytes object info\n  size: 5\n  trying string: Hello\n  first 6 bytes: 48 65 6c 6c 6f 00\n[.] bytes object info\n  size: 8",
+        "detail": "0x04-python-more_data_structures.103-tests",
+        "documentation": {}
+    },
+    {
+        "label": "mutiply_list_map",
+        "kind": 2,
+        "importPath": "0x04-python-more_data_structures.11-mutiply_list_map",
+        "description": "0x04-python-more_data_structures.11-mutiply_list_map",
+        "peekOfCode": "def mutiply_list_map(my_list=[], number=0):\n    return (list(map(lambda x: x * number, my_list)))",
+        "detail": "0x04-python-more_data_structures.11-mutiply_list_map",
+        "documentation": {}
+    },
+    {
+        "label": "uniq_add",
+        "kind": 2,
+        "importPath": "0x04-python-more_data_structures.2-uniq_add",
+        "description": "0x04-python-more_data_structures.2-uniq_add",
+        "peekOfCode": "def uniq_add(my_list=[]):\n    return(sum(set(my_list)))",
+        "detail": "0x04-python-more_data_structures.2-uniq_add",
+        "documentation": {}
+    },
+    {
+        "label": "common_elements",
+        "kind": 2,
+        "importPath": "0x04-python-more_data_structures.3-common_elements",
+        "description": "0x04-python-more_data_structures.3-common_elements",
+        "peekOfCode": "def common_elements(set_1, set_2):\n    return(set_1.intersection(set_2))",
+        "detail": "0x04-python-more_data_structures.3-common_elements",
+        "documentation": {}
+    },
+    {
+        "label": "only_diff_elements",
+        "kind": 2,
+        "importPath": "0x04-python-more_data_structures.4-only_diff_elements",
+        "description": "0x04-python-more_data_structures.4-only_diff_elements",
+        "peekOfCode": "def only_diff_elements(set_1, set_2):\n    return(set_1.symmetric_difference(set_2))",
+        "detail": "0x04-python-more_data_structures.4-only_diff_elements",
+        "documentation": {}
+    },
+    {
+        "label": "number_keys",
+        "kind": 2,
+        "importPath": "0x04-python-more_data_structures.5-number_keys",
+        "description": "0x04-python-more_data_structures.5-number_keys",
+        "peekOfCode": "def number_keys(my_dict):\n    return (len(my_dict))",
+        "detail": "0x04-python-more_data_structures.5-number_keys",
+        "documentation": {}
+    },
+    {
+        "label": "print_sorted_dictionary",
+        "kind": 2,
+        "importPath": "0x04-python-more_data_structures.6-print_sorted_dictionary",
+        "description": "0x04-python-more_data_structures.6-print_sorted_dictionary",
+        "peekOfCode": "def print_sorted_dictionary(my_dict):\n    for keys in sorted(my_dict.keys()):\n        print('{}: {}'.format(keys, my_dict[keys]))",
+        "detail": "0x04-python-more_data_structures.6-print_sorted_dictionary",
+        "documentation": {}
+    },
+    {
+        "label": "update_dictionary",
+        "kind": 2,
+        "importPath": "0x04-python-more_data_structures.7-update_dictionary",
+        "description": "0x04-python-more_data_structures.7-update_dictionary",
+        "peekOfCode": "def update_dictionary(my_dict, key, value):\n    my_dict[key] = value\n    return (my_dict)",
+        "detail": "0x04-python-more_data_structures.7-update_dictionary",
+        "documentation": {}
+    },
+    {
+        "label": "simple_delete",
+        "kind": 2,
+        "importPath": "0x04-python-more_data_structures.8-simple_delete",
+        "description": "0x04-python-more_data_structures.8-simple_delete",
+        "peekOfCode": "def simple_delete(my_dict, key=\"\"):\n    if key in my_dict:\n        del my_dict[key]\n    return (my_dict)",
+        "detail": "0x04-python-more_data_structures.8-simple_delete",
+        "documentation": {}
+    },
+    {
+        "label": "multiply_by_2",
+        "kind": 2,
+        "importPath": "0x04-python-more_data_structures.9-multiply_by_2",
+        "description": "0x04-python-more_data_structures.9-multiply_by_2",
+        "peekOfCode": "def multiply_by_2(my_dict):\n    tmp_dict = my_dict.copy()\n    for x in tmp_dict.keys():\n        tmp_dict[x] *= 2\n    return (tmp_dict)",
+        "detail": "0x04-python-more_data_structures.9-multiply_by_2",
+        "documentation": {}
+    },
+    {
+        "label": "safe_print_list",
+        "kind": 2,
+        "importPath": "0x05-python-exceptions.0-safe_print_list",
+        "description": "0x05-python-exceptions.0-safe_print_list",
+        "peekOfCode": "def safe_print_list(my_list=[], x=0):\n    index = 0\n    while True:\n        try:\n            if index < x:\n                print(my_list[index], end='')\n                index += 1\n            else:\n                print()\n                return index",
+        "detail": "0x05-python-exceptions.0-safe_print_list",
+        "documentation": {}
+    },
+    {
+        "label": "safe_print_integer",
+        "kind": 2,
+        "importPath": "0x05-python-exceptions.1-safe_print_integer",
+        "description": "0x05-python-exceptions.1-safe_print_integer",
+        "peekOfCode": "def safe_print_integer(value):\n    try:\n        print(\"{:d}\".format(value))\n        return True\n    except:\n        return False",
+        "detail": "0x05-python-exceptions.1-safe_print_integer",
+        "documentation": {}
+    },
+    {
+        "label": "safe_print_integer_err",
+        "kind": 2,
+        "importPath": "0x05-python-exceptions.100-safe_print_integer_err",
+        "description": "0x05-python-exceptions.100-safe_print_integer_err",
+        "peekOfCode": "def safe_print_integer_err(value):\n    try:\n        print(\"{:d}\".format(value))\n        return True\n    except ValueError as err:\n        print(\"Exception: {}\".format(err), file=sys.stderr)\n        return False\n    except TypeError as err:\n        print(\"Exception: {}\".format(err), file=sys.stderr)\n        return False",
+        "detail": "0x05-python-exceptions.100-safe_print_integer_err",
+        "documentation": {}
+    },
+    {
+        "label": "safe_function",
+        "kind": 2,
+        "importPath": "0x05-python-exceptions.101-safe_function",
+        "description": "0x05-python-exceptions.101-safe_function",
+        "peekOfCode": "def safe_function(fct, *args):\n    try:\n        return fct(*args)\n    except (ZeroDivisionError, ValueError, TypeError, IndexError) as error:\n        print(\"Exception: {}\".format(error), file=sys.stderr)\n        return None",
+        "detail": "0x05-python-exceptions.101-safe_function",
+        "documentation": {}
+    },
+    {
+        "label": "magic_calculation",
+        "kind": 2,
+        "importPath": "0x05-python-exceptions.102-magic_calculation",
+        "description": "0x05-python-exceptions.102-magic_calculation",
+        "peekOfCode": "def magic_calculation(a, b):\n    result = 0\n    return result",
+        "detail": "0x05-python-exceptions.102-magic_calculation",
+        "documentation": {}
+    },
+    {
+        "label": "lib",
+        "kind": 5,
+        "importPath": "0x05-python-exceptions.103-tests",
+        "description": "0x05-python-exceptions.103-tests",
+        "peekOfCode": "lib = ctypes.CDLL('./libPython.so')\nlib.print_python_list.argtypes = [ctypes.py_object]\nlib.print_python_bytes.argtypes = [ctypes.py_object]\nlib.print_python_float.argtypes = [ctypes.py_object]\ns = b\"Hello\"\nlib.print_python_bytes(s);\nb = b'\\xff\\xf8\\x00\\x00\\x00\\x00\\x00\\x00';\nlib.print_python_bytes(b);\nb = b'What does the \\'b\\' character do in front of a string literal?';\nlib.print_python_bytes(b);",
+        "detail": "0x05-python-exceptions.103-tests",
+        "documentation": {}
+    },
+    {
+        "label": "lib.print_python_list.argtypes",
+        "kind": 5,
+        "importPath": "0x05-python-exceptions.103-tests",
+        "description": "0x05-python-exceptions.103-tests",
+        "peekOfCode": "lib.print_python_list.argtypes = [ctypes.py_object]\nlib.print_python_bytes.argtypes = [ctypes.py_object]\nlib.print_python_float.argtypes = [ctypes.py_object]\ns = b\"Hello\"\nlib.print_python_bytes(s);\nb = b'\\xff\\xf8\\x00\\x00\\x00\\x00\\x00\\x00';\nlib.print_python_bytes(b);\nb = b'What does the \\'b\\' character do in front of a string literal?';\nlib.print_python_bytes(b);\nl = [b'Hello', b'World']",
+        "detail": "0x05-python-exceptions.103-tests",
+        "documentation": {}
+    },
+    {
+        "label": "lib.print_python_bytes.argtypes",
+        "kind": 5,
+        "importPath": "0x05-python-exceptions.103-tests",
+        "description": "0x05-python-exceptions.103-tests",
+        "peekOfCode": "lib.print_python_bytes.argtypes = [ctypes.py_object]\nlib.print_python_float.argtypes = [ctypes.py_object]\ns = b\"Hello\"\nlib.print_python_bytes(s);\nb = b'\\xff\\xf8\\x00\\x00\\x00\\x00\\x00\\x00';\nlib.print_python_bytes(b);\nb = b'What does the \\'b\\' character do in front of a string literal?';\nlib.print_python_bytes(b);\nl = [b'Hello', b'World']\nlib.print_python_list(l)",
+        "detail": "0x05-python-exceptions.103-tests",
+        "documentation": {}
+    },
+    {
+        "label": "lib.print_python_float.argtypes",
+        "kind": 5,
+        "importPath": "0x05-python-exceptions.103-tests",
+        "description": "0x05-python-exceptions.103-tests",
+        "peekOfCode": "lib.print_python_float.argtypes = [ctypes.py_object]\ns = b\"Hello\"\nlib.print_python_bytes(s);\nb = b'\\xff\\xf8\\x00\\x00\\x00\\x00\\x00\\x00';\nlib.print_python_bytes(b);\nb = b'What does the \\'b\\' character do in front of a string literal?';\nlib.print_python_bytes(b);\nl = [b'Hello', b'World']\nlib.print_python_list(l)\ndel l[1]",
+        "detail": "0x05-python-exceptions.103-tests",
+        "documentation": {}
+    },
+    {
+        "label": "s",
+        "kind": 5,
+        "importPath": "0x05-python-exceptions.103-tests",
+        "description": "0x05-python-exceptions.103-tests",
+        "peekOfCode": "s = b\"Hello\"\nlib.print_python_bytes(s);\nb = b'\\xff\\xf8\\x00\\x00\\x00\\x00\\x00\\x00';\nlib.print_python_bytes(b);\nb = b'What does the \\'b\\' character do in front of a string literal?';\nlib.print_python_bytes(b);\nl = [b'Hello', b'World']\nlib.print_python_list(l)\ndel l[1]\nlib.print_python_list(l)",
+        "detail": "0x05-python-exceptions.103-tests",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "0x05-python-exceptions.103-tests",
+        "description": "0x05-python-exceptions.103-tests",
+        "peekOfCode": "b = b'\\xff\\xf8\\x00\\x00\\x00\\x00\\x00\\x00';\nlib.print_python_bytes(b);\nb = b'What does the \\'b\\' character do in front of a string literal?';\nlib.print_python_bytes(b);\nl = [b'Hello', b'World']\nlib.print_python_list(l)\ndel l[1]\nlib.print_python_list(l)\nl = l + [4, 5, 6.0, (9, 8), [9, 8, 1024], b\"Holberton\", \"Betty\"]\nlib.print_python_list(l)",
+        "detail": "0x05-python-exceptions.103-tests",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "0x05-python-exceptions.103-tests",
+        "description": "0x05-python-exceptions.103-tests",
+        "peekOfCode": "b = b'What does the \\'b\\' character do in front of a string literal?';\nlib.print_python_bytes(b);\nl = [b'Hello', b'World']\nlib.print_python_list(l)\ndel l[1]\nlib.print_python_list(l)\nl = l + [4, 5, 6.0, (9, 8), [9, 8, 1024], b\"Holberton\", \"Betty\"]\nlib.print_python_list(l)\nl = []\nlib.print_python_list(l)",
+        "detail": "0x05-python-exceptions.103-tests",
+        "documentation": {}
+    },
+    {
+        "label": "l",
+        "kind": 5,
+        "importPath": "0x05-python-exceptions.103-tests",
+        "description": "0x05-python-exceptions.103-tests",
+        "peekOfCode": "l = [b'Hello', b'World']\nlib.print_python_list(l)\ndel l[1]\nlib.print_python_list(l)\nl = l + [4, 5, 6.0, (9, 8), [9, 8, 1024], b\"Holberton\", \"Betty\"]\nlib.print_python_list(l)\nl = []\nlib.print_python_list(l)\nl.append(0)\nlib.print_python_list(l)",
+        "detail": "0x05-python-exceptions.103-tests",
+        "documentation": {}
+    },
+    {
+        "label": "l",
+        "kind": 5,
+        "importPath": "0x05-python-exceptions.103-tests",
+        "description": "0x05-python-exceptions.103-tests",
+        "peekOfCode": "l = l + [4, 5, 6.0, (9, 8), [9, 8, 1024], b\"Holberton\", \"Betty\"]\nlib.print_python_list(l)\nl = []\nlib.print_python_list(l)\nl.append(0)\nlib.print_python_list(l)\nl.append(1)\nl.append(2)\nl.append(3)\nl.append(4)",
+        "detail": "0x05-python-exceptions.103-tests",
+        "documentation": {}
+    },
+    {
+        "label": "l",
+        "kind": 5,
+        "importPath": "0x05-python-exceptions.103-tests",
+        "description": "0x05-python-exceptions.103-tests",
+        "peekOfCode": "l = []\nlib.print_python_list(l)\nl.append(0)\nlib.print_python_list(l)\nl.append(1)\nl.append(2)\nl.append(3)\nl.append(4)\nlib.print_python_list(l)\nl.pop()",
+        "detail": "0x05-python-exceptions.103-tests",
+        "documentation": {}
+    },
+    {
+        "label": "l",
+        "kind": 5,
+        "importPath": "0x05-python-exceptions.103-tests",
+        "description": "0x05-python-exceptions.103-tests",
+        "peekOfCode": "l = [\"Holberton\"]\nlib.print_python_list(l)\nlib.print_python_bytes(l);\nf = 3.14\nlib.print_python_float(f);\nl = [-1.0, -0.1, 0.0, 1.0, 3.14, 3.14159, 3.14159265, 3.141592653589793238462643383279502884197169399375105820974944592307816406286]\nprint(l)\nlib.print_python_list(l);\nlib.print_python_float(l);\nlib.print_python_list(f);",
+        "detail": "0x05-python-exceptions.103-tests",
+        "documentation": {}
+    },
+    {
+        "label": "f",
+        "kind": 5,
+        "importPath": "0x05-python-exceptions.103-tests",
+        "description": "0x05-python-exceptions.103-tests",
+        "peekOfCode": "f = 3.14\nlib.print_python_float(f);\nl = [-1.0, -0.1, 0.0, 1.0, 3.14, 3.14159, 3.14159265, 3.141592653589793238462643383279502884197169399375105820974944592307816406286]\nprint(l)\nlib.print_python_list(l);\nlib.print_python_float(l);\nlib.print_python_list(f);\njulien@ubuntu:~/CPython$ ./103-tests.py \n[.] bytes object info\n  size: 5",
+        "detail": "0x05-python-exceptions.103-tests",
+        "documentation": {}
+    },
+    {
+        "label": "l",
+        "kind": 5,
+        "importPath": "0x05-python-exceptions.103-tests",
+        "description": "0x05-python-exceptions.103-tests",
+        "peekOfCode": "l = [-1.0, -0.1, 0.0, 1.0, 3.14, 3.14159, 3.14159265, 3.141592653589793238462643383279502884197169399375105820974944592307816406286]\nprint(l)\nlib.print_python_list(l);\nlib.print_python_float(l);\nlib.print_python_list(f);\njulien@ubuntu:~/CPython$ ./103-tests.py \n[.] bytes object info\n  size: 5\n  trying string: Hello\n  first 6 bytes: 48 65 6c 6c 6f 00",
+        "detail": "0x05-python-exceptions.103-tests",
+        "documentation": {}
+    },
+    {
+        "label": "safe_print_list_integers",
+        "kind": 2,
+        "importPath": "0x05-python-exceptions.2-safe_print_list_integers",
+        "description": "0x05-python-exceptions.2-safe_print_list_integers",
+        "peekOfCode": "def safe_print_list_integers(my_list=[], x=0):\n    index = printed_ints = 0\n    while True:\n        try:\n            if index < x:\n                print(\"{:d}\".format(my_list[index]), end='')\n                index += 1\n                printed_ints += 1\n            else:\n                print()",
+        "detail": "0x05-python-exceptions.2-safe_print_list_integers",
+        "documentation": {}
+    },
+    {
+        "label": "safe_print_division",
+        "kind": 2,
+        "importPath": "0x05-python-exceptions.3-safe_print_division",
+        "description": "0x05-python-exceptions.3-safe_print_division",
+        "peekOfCode": "def safe_print_division(a, b):\n    try:\n        result = a / b\n        print(\"Inside result: {:.1f}\".format(result))\n    except:\n        result = None\n        print(\"Inside result: {}\".format(result))\n    finally:\n        return result",
+        "detail": "0x05-python-exceptions.3-safe_print_division",
+        "documentation": {}
+    },
+    {
+        "label": "list_division",
+        "kind": 2,
+        "importPath": "0x05-python-exceptions.4-list_division",
+        "description": "0x05-python-exceptions.4-list_division",
+        "peekOfCode": "def list_division(my_list_1, my_list_2, list_length):\n    new_list = []\n    index = 0\n    if list_length <= 0:\n        print(\"out of range\")\n        return new_list\n    while index < list_length:\n        try:\n            new_list.append(my_list_1[index] / my_list_2[index])\n        except ZeroDivisionError:",
+        "detail": "0x05-python-exceptions.4-list_division",
+        "documentation": {}
+    },
+    {
+        "label": "raise_exception",
+        "kind": 2,
+        "importPath": "0x05-python-exceptions.5-raise_exception",
+        "description": "0x05-python-exceptions.5-raise_exception",
+        "peekOfCode": "def raise_exception():\n    raise TypeError",
+        "detail": "0x05-python-exceptions.5-raise_exception",
+        "documentation": {}
+    },
+    {
+        "label": "raise_exception_msg",
+        "kind": 2,
+        "importPath": "0x05-python-exceptions.6-raise_exception_msg",
+        "description": "0x05-python-exceptions.6-raise_exception_msg",
+        "peekOfCode": "def raise_exception_msg(message=\"\"):\n    raise NameError(message)",
+        "detail": "0x05-python-exceptions.6-raise_exception_msg",
+        "documentation": {}
+    },
+    {
+        "label": "Square",
+        "kind": 5,
+        "importPath": "0x06-python-classes.tests.0-main",
+        "description": "0x06-python-classes.tests.0-main",
+        "peekOfCode": "Square = __import__('0-square').Square\nmy_square = Square()\nprint(type(my_square))\nprint(my_square.__dict__)",
+        "detail": "0x06-python-classes.tests.0-main",
+        "documentation": {}
+    },
+    {
+        "label": "my_square",
+        "kind": 5,
+        "importPath": "0x06-python-classes.tests.0-main",
+        "description": "0x06-python-classes.tests.0-main",
+        "peekOfCode": "my_square = Square()\nprint(type(my_square))\nprint(my_square.__dict__)",
+        "detail": "0x06-python-classes.tests.0-main",
+        "documentation": {}
+    },
+    {
+        "label": "Square",
+        "kind": 5,
+        "importPath": "0x06-python-classes.tests.1-main",
+        "description": "0x06-python-classes.tests.1-main",
+        "peekOfCode": "Square = __import__('1-square').Square\nmy_square = Square(3)\nprint(type(my_square))\nprint(my_square.__dict__)\ntry:\n    print(my_square.size)\nexcept Exception as e:\n    print(e)\ntry:\n    print(my_square.__size)",
+        "detail": "0x06-python-classes.tests.1-main",
+        "documentation": {}
+    },
+    {
+        "label": "my_square",
+        "kind": 5,
+        "importPath": "0x06-python-classes.tests.1-main",
+        "description": "0x06-python-classes.tests.1-main",
+        "peekOfCode": "my_square = Square(3)\nprint(type(my_square))\nprint(my_square.__dict__)\ntry:\n    print(my_square.size)\nexcept Exception as e:\n    print(e)\ntry:\n    print(my_square.__size)\nexcept Exception as e:",
+        "detail": "0x06-python-classes.tests.1-main",
+        "documentation": {}
+    },
+    {
+        "label": "SinglyLinkedList",
+        "kind": 5,
+        "importPath": "0x06-python-classes.tests.100-main",
+        "description": "0x06-python-classes.tests.100-main",
+        "peekOfCode": "SinglyLinkedList = __import__('100-singly_linked_list').SinglyLinkedList\nsll = SinglyLinkedList()\nsll.sorted_insert(2)\nsll.sorted_insert(5)\nsll.sorted_insert(3)\nsll.sorted_insert(10)\nsll.sorted_insert(1)\nsll.sorted_insert(-4)\nsll.sorted_insert(-3)\nsll.sorted_insert(4)",
+        "detail": "0x06-python-classes.tests.100-main",
+        "documentation": {}
+    },
+    {
+        "label": "sll",
+        "kind": 5,
+        "importPath": "0x06-python-classes.tests.100-main",
+        "description": "0x06-python-classes.tests.100-main",
+        "peekOfCode": "sll = SinglyLinkedList()\nsll.sorted_insert(2)\nsll.sorted_insert(5)\nsll.sorted_insert(3)\nsll.sorted_insert(10)\nsll.sorted_insert(1)\nsll.sorted_insert(-4)\nsll.sorted_insert(-3)\nsll.sorted_insert(4)\nsll.sorted_insert(5)",
+        "detail": "0x06-python-classes.tests.100-main",
+        "documentation": {}
+    },
+    {
+        "label": "Square",
+        "kind": 5,
+        "importPath": "0x06-python-classes.tests.101-main",
+        "description": "0x06-python-classes.tests.101-main",
+        "peekOfCode": "Square = __import__('101-square').Square\nmy_square = Square(5, (0, 0))\nprint(my_square)\nprint(\"--\")\nmy_square = Square(5, (4, 1))\nprint(my_square)",
+        "detail": "0x06-python-classes.tests.101-main",
+        "documentation": {}
+    },
+    {
+        "label": "my_square",
+        "kind": 5,
+        "importPath": "0x06-python-classes.tests.101-main",
+        "description": "0x06-python-classes.tests.101-main",
+        "peekOfCode": "my_square = Square(5, (0, 0))\nprint(my_square)\nprint(\"--\")\nmy_square = Square(5, (4, 1))\nprint(my_square)",
+        "detail": "0x06-python-classes.tests.101-main",
+        "documentation": {}
+    },
+    {
+        "label": "my_square",
+        "kind": 5,
+        "importPath": "0x06-python-classes.tests.101-main",
+        "description": "0x06-python-classes.tests.101-main",
+        "peekOfCode": "my_square = Square(5, (4, 1))\nprint(my_square)",
+        "detail": "0x06-python-classes.tests.101-main",
+        "documentation": {}
+    },
+    {
+        "label": "Square",
+        "kind": 5,
+        "importPath": "0x06-python-classes.tests.102-main",
+        "description": "0x06-python-classes.tests.102-main",
+        "peekOfCode": "Square = __import__('102-square').Square\ns_5 = Square(5)\ns_6 = Square(6)\nif s_5 < s_6:\n    print(\"Square 5 < Square 6\")\nif s_5 <= s_6:\n    print(\"Square 5 <= Square 6\")\nif s_5 == s_6:\n    print(\"Square 5 == Square 6\")\nif s_5 != s_6:",
+        "detail": "0x06-python-classes.tests.102-main",
+        "documentation": {}
+    },
+    {
+        "label": "s_5",
+        "kind": 5,
+        "importPath": "0x06-python-classes.tests.102-main",
+        "description": "0x06-python-classes.tests.102-main",
+        "peekOfCode": "s_5 = Square(5)\ns_6 = Square(6)\nif s_5 < s_6:\n    print(\"Square 5 < Square 6\")\nif s_5 <= s_6:\n    print(\"Square 5 <= Square 6\")\nif s_5 == s_6:\n    print(\"Square 5 == Square 6\")\nif s_5 != s_6:\n    print(\"Square 5 != Square 6\")",
+        "detail": "0x06-python-classes.tests.102-main",
+        "documentation": {}
+    },
+    {
+        "label": "s_6",
+        "kind": 5,
+        "importPath": "0x06-python-classes.tests.102-main",
+        "description": "0x06-python-classes.tests.102-main",
+        "peekOfCode": "s_6 = Square(6)\nif s_5 < s_6:\n    print(\"Square 5 < Square 6\")\nif s_5 <= s_6:\n    print(\"Square 5 <= Square 6\")\nif s_5 == s_6:\n    print(\"Square 5 == Square 6\")\nif s_5 != s_6:\n    print(\"Square 5 != Square 6\")\nif s_5 > s_6:",
+        "detail": "0x06-python-classes.tests.102-main",
+        "documentation": {}
+    },
+    {
+        "label": "Square",
+        "kind": 5,
+        "importPath": "0x06-python-classes.tests.2-main",
+        "description": "0x06-python-classes.tests.2-main",
+        "peekOfCode": "Square = __import__('2-square').Square\nmy_square_1 = Square(3)\nprint(type(my_square_1))\nprint(my_square_1.__dict__)\nmy_square_2 = Square()\nprint(type(my_square_2))\nprint(my_square_2.__dict__)\ntry:\n    print(my_square_1.size)\nexcept Exception as e:",
+        "detail": "0x06-python-classes.tests.2-main",
+        "documentation": {}
+    },
+    {
+        "label": "my_square_1",
+        "kind": 5,
+        "importPath": "0x06-python-classes.tests.2-main",
+        "description": "0x06-python-classes.tests.2-main",
+        "peekOfCode": "my_square_1 = Square(3)\nprint(type(my_square_1))\nprint(my_square_1.__dict__)\nmy_square_2 = Square()\nprint(type(my_square_2))\nprint(my_square_2.__dict__)\ntry:\n    print(my_square_1.size)\nexcept Exception as e:\n    print(e)",
+        "detail": "0x06-python-classes.tests.2-main",
+        "documentation": {}
+    },
+    {
+        "label": "my_square_2",
+        "kind": 5,
+        "importPath": "0x06-python-classes.tests.2-main",
+        "description": "0x06-python-classes.tests.2-main",
+        "peekOfCode": "my_square_2 = Square()\nprint(type(my_square_2))\nprint(my_square_2.__dict__)\ntry:\n    print(my_square_1.size)\nexcept Exception as e:\n    print(e)\ntry:\n    print(my_square_1.__size)\nexcept Exception as e:",
+        "detail": "0x06-python-classes.tests.2-main",
+        "documentation": {}
+    },
+    {
+        "label": "Square",
+        "kind": 5,
+        "importPath": "0x06-python-classes.tests.3-main",
+        "description": "0x06-python-classes.tests.3-main",
+        "peekOfCode": "Square = __import__('3-square').Square\nmy_square_1 = Square(3)\nprint(\"Area: {}\".format(my_square_1.area()))\ntry:\n    print(my_square_1.size)\nexcept Exception as e:\n    print(e)\ntry:\n    print(my_square_1.__size)\nexcept Exception as e:",
+        "detail": "0x06-python-classes.tests.3-main",
+        "documentation": {}
+    },
+    {
+        "label": "my_square_1",
+        "kind": 5,
+        "importPath": "0x06-python-classes.tests.3-main",
+        "description": "0x06-python-classes.tests.3-main",
+        "peekOfCode": "my_square_1 = Square(3)\nprint(\"Area: {}\".format(my_square_1.area()))\ntry:\n    print(my_square_1.size)\nexcept Exception as e:\n    print(e)\ntry:\n    print(my_square_1.__size)\nexcept Exception as e:\n    print(e)",
+        "detail": "0x06-python-classes.tests.3-main",
+        "documentation": {}
+    },
+    {
+        "label": "my_square_2",
+        "kind": 5,
+        "importPath": "0x06-python-classes.tests.3-main",
+        "description": "0x06-python-classes.tests.3-main",
+        "peekOfCode": "my_square_2 = Square(5)\nprint(\"Area: {}\".format(my_square_2.area()))",
+        "detail": "0x06-python-classes.tests.3-main",
+        "documentation": {}
+    },
+    {
+        "label": "Square",
+        "kind": 5,
+        "importPath": "0x06-python-classes.tests.4-main",
+        "description": "0x06-python-classes.tests.4-main",
+        "peekOfCode": "Square = __import__('4-square').Square\nmy_square = Square(89)\nprint(\"Area: {} for size: {}\".format(my_square.area(), my_square.size))\nmy_square.size = 3\nprint(\"Area: {} for size: {}\".format(my_square.area(), my_square.size))\ntry:\n    my_square.size = \"5 feet\"\n    print(\"Area: {} for size: {}\".format(my_square.area(), my_square.size))\nexcept Exception as e:\n    print(e)",
+        "detail": "0x06-python-classes.tests.4-main",
+        "documentation": {}
+    },
+    {
+        "label": "my_square",
+        "kind": 5,
+        "importPath": "0x06-python-classes.tests.4-main",
+        "description": "0x06-python-classes.tests.4-main",
+        "peekOfCode": "my_square = Square(89)\nprint(\"Area: {} for size: {}\".format(my_square.area(), my_square.size))\nmy_square.size = 3\nprint(\"Area: {} for size: {}\".format(my_square.area(), my_square.size))\ntry:\n    my_square.size = \"5 feet\"\n    print(\"Area: {} for size: {}\".format(my_square.area(), my_square.size))\nexcept Exception as e:\n    print(e)",
+        "detail": "0x06-python-classes.tests.4-main",
+        "documentation": {}
+    },
+    {
+        "label": "my_square.size",
+        "kind": 5,
+        "importPath": "0x06-python-classes.tests.4-main",
+        "description": "0x06-python-classes.tests.4-main",
+        "peekOfCode": "my_square.size = 3\nprint(\"Area: {} for size: {}\".format(my_square.area(), my_square.size))\ntry:\n    my_square.size = \"5 feet\"\n    print(\"Area: {} for size: {}\".format(my_square.area(), my_square.size))\nexcept Exception as e:\n    print(e)",
+        "detail": "0x06-python-classes.tests.4-main",
+        "documentation": {}
+    },
+    {
+        "label": "Square",
+        "kind": 5,
+        "importPath": "0x06-python-classes.tests.5-main",
+        "description": "0x06-python-classes.tests.5-main",
+        "peekOfCode": "Square = __import__('5-square').Square\nmy_square = Square(3)\nmy_square.my_print()\nprint(\"--\")\nmy_square.size = 10\nmy_square.my_print()\nprint(\"--\")\nmy_square.size = 0\nmy_square.my_print()\nprint(\"--\")",
+        "detail": "0x06-python-classes.tests.5-main",
+        "documentation": {}
+    },
+    {
+        "label": "my_square",
+        "kind": 5,
+        "importPath": "0x06-python-classes.tests.5-main",
+        "description": "0x06-python-classes.tests.5-main",
+        "peekOfCode": "my_square = Square(3)\nmy_square.my_print()\nprint(\"--\")\nmy_square.size = 10\nmy_square.my_print()\nprint(\"--\")\nmy_square.size = 0\nmy_square.my_print()\nprint(\"--\")",
+        "detail": "0x06-python-classes.tests.5-main",
+        "documentation": {}
+    },
+    {
+        "label": "my_square.size",
+        "kind": 5,
+        "importPath": "0x06-python-classes.tests.5-main",
+        "description": "0x06-python-classes.tests.5-main",
+        "peekOfCode": "my_square.size = 10\nmy_square.my_print()\nprint(\"--\")\nmy_square.size = 0\nmy_square.my_print()\nprint(\"--\")",
+        "detail": "0x06-python-classes.tests.5-main",
+        "documentation": {}
+    },
+    {
+        "label": "my_square.size",
+        "kind": 5,
+        "importPath": "0x06-python-classes.tests.5-main",
+        "description": "0x06-python-classes.tests.5-main",
+        "peekOfCode": "my_square.size = 0\nmy_square.my_print()\nprint(\"--\")",
+        "detail": "0x06-python-classes.tests.5-main",
+        "documentation": {}
+    },
+    {
+        "label": "Square",
+        "kind": 5,
+        "importPath": "0x06-python-classes.tests.6-main",
+        "description": "0x06-python-classes.tests.6-main",
+        "peekOfCode": "Square = __import__('6-square').Square\nmy_square_1 = Square(3)\nmy_square_1.my_print()\nprint(\"--\")\nmy_square_2 = Square(3, (1, 1))\nmy_square_2.my_print()\nprint(\"--\")\nmy_square_3 = Square(3, (3, 0))\nmy_square_3.my_print()\nprint(\"--\")",
+        "detail": "0x06-python-classes.tests.6-main",
+        "documentation": {}
+    },
+    {
+        "label": "my_square_1",
+        "kind": 5,
+        "importPath": "0x06-python-classes.tests.6-main",
+        "description": "0x06-python-classes.tests.6-main",
+        "peekOfCode": "my_square_1 = Square(3)\nmy_square_1.my_print()\nprint(\"--\")\nmy_square_2 = Square(3, (1, 1))\nmy_square_2.my_print()\nprint(\"--\")\nmy_square_3 = Square(3, (3, 0))\nmy_square_3.my_print()\nprint(\"--\")",
+        "detail": "0x06-python-classes.tests.6-main",
+        "documentation": {}
+    },
+    {
+        "label": "my_square_2",
+        "kind": 5,
+        "importPath": "0x06-python-classes.tests.6-main",
+        "description": "0x06-python-classes.tests.6-main",
+        "peekOfCode": "my_square_2 = Square(3, (1, 1))\nmy_square_2.my_print()\nprint(\"--\")\nmy_square_3 = Square(3, (3, 0))\nmy_square_3.my_print()\nprint(\"--\")",
+        "detail": "0x06-python-classes.tests.6-main",
+        "documentation": {}
+    },
+    {
+        "label": "my_square_3",
+        "kind": 5,
+        "importPath": "0x06-python-classes.tests.6-main",
+        "description": "0x06-python-classes.tests.6-main",
+        "peekOfCode": "my_square_3 = Square(3, (3, 0))\nmy_square_3.my_print()\nprint(\"--\")",
+        "detail": "0x06-python-classes.tests.6-main",
+        "documentation": {}
+    },
+    {
+        "label": "Square",
+        "kind": 6,
+        "importPath": "0x06-python-classes.0-square",
+        "description": "0x06-python-classes.0-square",
+        "peekOfCode": "class Square:\n    \"\"\"Represent a square.\"\"\"\n    pass",
+        "detail": "0x06-python-classes.0-square",
+        "documentation": {}
+    },
+    {
+        "label": "Square",
+        "kind": 6,
+        "importPath": "0x06-python-classes.1-square",
+        "description": "0x06-python-classes.1-square",
+        "peekOfCode": "class Square:\n    \"\"\"Represent a square.\"\"\"\n    def __init__(self, size):\n        \"\"\"Initialize a new Square.\n        Args:\n            size (int): The size of the new square.\n        \"\"\"\n        self.__size = size",
+        "detail": "0x06-python-classes.1-square",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "kind": 6,
+        "importPath": "0x06-python-classes.100-singly_linked_list",
+        "description": "0x06-python-classes.100-singly_linked_list",
+        "peekOfCode": "class Node:\n    \"\"\"Represent a node in a singly-linked list.\"\"\"\n    def __init__(self, data, next_node=None):\n        \"\"\"Initialize a new Node.\n        Args:\n            data (int): The data of the new Node.\n            next_node (Node): The next node of the new Node.\n        \"\"\"\n        self.data = data\n        self.next_node = next_node",
+        "detail": "0x06-python-classes.100-singly_linked_list",
+        "documentation": {}
+    },
+    {
+        "label": "SinglyLinkedList",
+        "kind": 6,
+        "importPath": "0x06-python-classes.100-singly_linked_list",
+        "description": "0x06-python-classes.100-singly_linked_list",
+        "peekOfCode": "class SinglyLinkedList:\n    \"\"\"Represent a singly-linked list.\"\"\"\n    def __init__(self):\n        \"\"\"Initalize a new SinglyLinkedList.\"\"\"\n        self.__head = None\n    def sorted_insert(self, value):\n        \"\"\"Insert a new Node to the SinglyLinkedList.\n        The node is inserted into the list at the correct\n        ordered numerical position.\n        Args:",
+        "detail": "0x06-python-classes.100-singly_linked_list",
+        "documentation": {}
+    },
+    {
+        "label": "Square",
+        "kind": 6,
+        "importPath": "0x06-python-classes.101-square",
+        "description": "0x06-python-classes.101-square",
+        "peekOfCode": "class Square:\n    \"\"\"Represent a square.\"\"\"\n    def __init__(self, size=0, position=(0, 0)):\n        \"\"\"Initialize a new square.\n        Args:\n            size (int): The size of the new square.\n            position (int, int): The position of the new square.\n        \"\"\"\n        self.size = size\n        self.position = position",
+        "detail": "0x06-python-classes.101-square",
+        "documentation": {}
+    },
+    {
+        "label": "Square",
+        "kind": 6,
+        "importPath": "0x06-python-classes.102-square",
+        "description": "0x06-python-classes.102-square",
+        "peekOfCode": "class Square:\n    \"\"\"Represent a square.\"\"\"\n    def __init__(self, size=0):\n        \"\"\"Initialize a new square.\n        Args:\n            size (int): The size of the new square.\n        \"\"\"\n        self.size = size\n    @property\n    def size(self):",
+        "detail": "0x06-python-classes.102-square",
+        "documentation": {}
+    },
+    {
+        "label": "MagicClass",
+        "kind": 6,
+        "importPath": "0x06-python-classes.103-magic_class",
+        "description": "0x06-python-classes.103-magic_class",
+        "peekOfCode": "class MagicClass:\n    \"\"\"Represent a circle.\"\"\"\n    def __init__(self, radius=0):\n        \"\"\"Initialize a MagicClass.\n        Arg:\n            radius (float or int): The radius of the new MagicClass.\n        \"\"\"\n        self.__radius = 0\n        if type(radius) is not int and type(radius) is not float:\n            raise TypeError(\"radius must be a number\")",
+        "detail": "0x06-python-classes.103-magic_class",
+        "documentation": {}
+    },
+    {
+        "label": "Square",
+        "kind": 6,
+        "importPath": "0x06-python-classes.2-square",
+        "description": "0x06-python-classes.2-square",
+        "peekOfCode": "class Square:\n    \"\"\"Represent a square.\"\"\"\n    def __init__(self, size=0):\n        \"\"\"Initialize a new Square.\n        Args:\n            size (int): The size of the new square.\n        \"\"\"\n        if not isinstance(size, int):\n            raise TypeError(\"size must be an integer\")\n        elif size < 0:",
+        "detail": "0x06-python-classes.2-square",
+        "documentation": {}
+    },
+    {
+        "label": "Square",
+        "kind": 6,
+        "importPath": "0x06-python-classes.3-square",
+        "description": "0x06-python-classes.3-square",
+        "peekOfCode": "class Square:\n    \"\"\"Represent a square.\"\"\"\n    def __init__(self, size=0):\n        \"\"\"Initialize a new square.\n        Args:\n            size (int): The size of the new square.\n        \"\"\"\n        if not isinstance(size, int):\n            raise TypeError(\"size must be an integer\")\n        elif size < 0:",
+        "detail": "0x06-python-classes.3-square",
+        "documentation": {}
+    },
+    {
+        "label": "Square",
+        "kind": 6,
+        "importPath": "0x06-python-classes.4-square",
+        "description": "0x06-python-classes.4-square",
+        "peekOfCode": "class Square:\n    \"\"\"Represent a square.\"\"\"\n    def __init__(self, size=0):\n        \"\"\"Initialize a new square.\n        Args:\n            size (int): The size of the new square.\n        \"\"\"\n        self.size = size\n    @property\n    def size(self):",
+        "detail": "0x06-python-classes.4-square",
+        "documentation": {}
+    },
+    {
+        "label": "Square",
+        "kind": 6,
+        "importPath": "0x06-python-classes.5-square",
+        "description": "0x06-python-classes.5-square",
+        "peekOfCode": "class Square:\n    \"\"\"Represent a square.\"\"\"\n    def __init__(self, size):\n        \"\"\"Initialize a new square.\n        Args:\n            size (int): The size of the new square.\n        \"\"\"\n        self.size = size\n    @property\n    def size(self):",
+        "detail": "0x06-python-classes.5-square",
+        "documentation": {}
+    },
+    {
+        "label": "Square",
+        "kind": 6,
+        "importPath": "0x06-python-classes.6-square",
+        "description": "0x06-python-classes.6-square",
+        "peekOfCode": "class Square:\n    \"\"\"Represent a square.\"\"\"\n    def __init__(self, size=0, position=(0, 0)):\n        \"\"\"Initialize a new square.\n        Args:\n            size (int): The size of the new square.\n            position (int, int): The position of the new square.\n        \"\"\"\n        self.size = size\n        self.position = position",
+        "detail": "0x06-python-classes.6-square",
+        "documentation": {}
+    },
+    {
+        "label": "add_integer",
+        "kind": 5,
+        "importPath": "0x07-python-test_driven_development.tests.0-main",
+        "description": "0x07-python-test_driven_development.tests.0-main",
+        "peekOfCode": "add_integer = __import__('0-add_integer').add_integer\nprint(add_integer(1, 2))\nprint(add_integer(100, -2))\nprint(add_integer(2))\nprint(add_integer(100.3, -2))\ntry:\n    print(add_integer(4, \"School\"))\nexcept Exception as e:\n    print(e)\ntry:",
+        "detail": "0x07-python-test_driven_development.tests.0-main",
+        "documentation": {}
+    },
+    {
+        "label": "matrix_mul",
+        "kind": 5,
+        "importPath": "0x07-python-test_driven_development.tests.100-main",
+        "description": "0x07-python-test_driven_development.tests.100-main",
+        "peekOfCode": "matrix_mul = __import__('100-matrix_mul').matrix_mul\nprint(matrix_mul([[1, 2], [3, 4]], [[1, 2], [3, 4]]))\nprint(matrix_mul([[1, 2]], [[3, 4], [5, 6]]))",
+        "detail": "0x07-python-test_driven_development.tests.100-main",
+        "documentation": {}
+    },
+    {
+        "label": "lazy_matrix_mul",
+        "kind": 5,
+        "importPath": "0x07-python-test_driven_development.tests.101-main",
+        "description": "0x07-python-test_driven_development.tests.101-main",
+        "peekOfCode": "lazy_matrix_mul = __import__('101-lazy_matrix_mul').lazy_matrix_mul\nprint(lazy_matrix_mul([[1, 2], [3, 4]], [[1, 2], [3, 4]]))\nprint(lazy_matrix_mul([[1, 2]], [[3, 4], [5, 6]]))",
+        "detail": "0x07-python-test_driven_development.tests.101-main",
+        "documentation": {}
+    },
+    {
+        "label": "matrix_divided",
+        "kind": 5,
+        "importPath": "0x07-python-test_driven_development.tests.2-main",
+        "description": "0x07-python-test_driven_development.tests.2-main",
+        "peekOfCode": "matrix_divided = __import__('2-matrix_divided').matrix_divided\nmatrix = [\n    [1, 2, 3],\n    [4, 5, 6]\n]\nprint(matrix_divided(matrix, 3))\nprint(matrix)",
+        "detail": "0x07-python-test_driven_development.tests.2-main",
+        "documentation": {}
+    },
+    {
+        "label": "matrix",
+        "kind": 5,
+        "importPath": "0x07-python-test_driven_development.tests.2-main",
+        "description": "0x07-python-test_driven_development.tests.2-main",
+        "peekOfCode": "matrix = [\n    [1, 2, 3],\n    [4, 5, 6]\n]\nprint(matrix_divided(matrix, 3))\nprint(matrix)",
+        "detail": "0x07-python-test_driven_development.tests.2-main",
+        "documentation": {}
+    },
+    {
+        "label": "say_my_name",
+        "kind": 5,
+        "importPath": "0x07-python-test_driven_development.tests.3-main",
+        "description": "0x07-python-test_driven_development.tests.3-main",
+        "peekOfCode": "say_my_name = __import__('3-say_my_name').say_my_name\nsay_my_name(\"John\", \"Smith\")\nsay_my_name(\"Walter\", \"White\")\nsay_my_name(\"Bob\")\ntry:\n    say_my_name(12, \"White\")\nexcept Exception as e:\n    print(e)",
+        "detail": "0x07-python-test_driven_development.tests.3-main",
+        "documentation": {}
+    },
+    {
+        "label": "print_square",
+        "kind": 5,
+        "importPath": "0x07-python-test_driven_development.tests.4-main",
+        "description": "0x07-python-test_driven_development.tests.4-main",
+        "peekOfCode": "print_square = __import__('4-print_square').print_square\nprint_square(4)\nprint(\"\")\nprint_square(10)\nprint(\"\")\nprint_square(0)\nprint(\"\")\nprint_square(1)\nprint(\"\")\ntry:",
+        "detail": "0x07-python-test_driven_development.tests.4-main",
+        "documentation": {}
+    },
+    {
+        "label": "text_indentation",
+        "kind": 5,
+        "importPath": "0x07-python-test_driven_development.tests.5-main",
+        "description": "0x07-python-test_driven_development.tests.5-main",
+        "peekOfCode": "text_indentation = __import__('5-text_indentation').text_indentation\ntext_indentation(\"\"\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. \\\nQuonam modo? Utrum igitur tibi litteram videor an totas paginas commovere? \\\nNon autem hoc: igitur ne illud quidem. Fortasse id optimum, sed ubi illud: \\\nPlus semper voluptatis? Teneo, inquit, finem illi videri nihil dolere. \\\nTransfer idem ad modestiam vel temperantiam, quae est moderatio cupiditatum \\\nrationi oboediens. Si id dicis, vicimus. Inde sermone vario sex illa a Dipylo \\\nstadia confecimus. Sin aliud quid voles, postea. Quae animi affectio suum \\\ncuique tribuens atque hanc, quam dico. Utinam quidem dicerent alium alio \\\nbeatiorem! Iam ruinas videres\"\"\")",
+        "detail": "0x07-python-test_driven_development.tests.5-main",
+        "documentation": {}
+    },
+    {
+        "label": "TestMaxInteger",
+        "kind": 6,
+        "importPath": "0x07-python-test_driven_development.tests.6-max_integer_test",
+        "description": "0x07-python-test_driven_development.tests.6-max_integer_test",
+        "peekOfCode": "class TestMaxInteger(unittest.TestCase):\n    \"\"\"Define unittests for max_integer([..]).\"\"\"\n    def test_ordered_list(self):\n        \"\"\"Test an ordered list of integers.\"\"\"\n        ordered = [1, 2, 3, 4]\n        self.assertEqual(max_integer(ordered), 4)\n    def test_unordered_list(self):\n        \"\"\"Test an unordered list of integers.\"\"\"\n        unordered = [1, 2, 4, 3]\n        self.assertEqual(max_integer(unordered), 4)",
+        "detail": "0x07-python-test_driven_development.tests.6-max_integer_test",
+        "documentation": {}
+    },
+    {
+        "label": "max_integer",
+        "kind": 5,
+        "importPath": "0x07-python-test_driven_development.tests.6-max_integer_test",
+        "description": "0x07-python-test_driven_development.tests.6-max_integer_test",
+        "peekOfCode": "max_integer = __import__('6-max_integer').max_integer\nclass TestMaxInteger(unittest.TestCase):\n    \"\"\"Define unittests for max_integer([..]).\"\"\"\n    def test_ordered_list(self):\n        \"\"\"Test an ordered list of integers.\"\"\"\n        ordered = [1, 2, 3, 4]\n        self.assertEqual(max_integer(ordered), 4)\n    def test_unordered_list(self):\n        \"\"\"Test an unordered list of integers.\"\"\"\n        unordered = [1, 2, 4, 3]",
+        "detail": "0x07-python-test_driven_development.tests.6-max_integer_test",
+        "documentation": {}
+    },
+    {
+        "label": "add_integer",
+        "kind": 2,
+        "importPath": "0x07-python-test_driven_development.0-add_integer",
+        "description": "0x07-python-test_driven_development.0-add_integer",
+        "peekOfCode": "def add_integer(a, b=98):\n    \"\"\"Return the integer addition of a and b.\n    Float arguments are typecasted to ints before addition is performed.\n    Raises:\n        TypeError: If either of a or b is a non-integer and non-float.\n    \"\"\"\n    if ((not isinstance(a, int) and not isinstance(a, float))):\n        raise TypeError(\"a must be an integer\")\n    if ((not isinstance(b, int) and not isinstance(b, float))):\n        raise TypeError(\"b must be an integer\")",
+        "detail": "0x07-python-test_driven_development.0-add_integer",
+        "documentation": {}
+    },
+    {
+        "label": "matrix_mul",
+        "kind": 2,
+        "importPath": "0x07-python-test_driven_development.100-matrix_mul",
+        "description": "0x07-python-test_driven_development.100-matrix_mul",
+        "peekOfCode": "def matrix_mul(m_a, m_b):\n    \"\"\"Multiply two matrices.\n    Args:\n        m_a (list of lists of ints/floats): The first matrix.\n        m_b (list of lists of ints/floats): The second matrix.\n    Raises:\n        TypeError: If either m_a or m_b is not a list of lists of ints/floats.\n        TypeError: If either m_a or m_b is empty.\n        TypeError: If either m_a or m_b has different-sized rows.\n        ValueError: If m_a and m_b cannot be multiplied.",
+        "detail": "0x07-python-test_driven_development.100-matrix_mul",
+        "documentation": {}
+    },
+    {
+        "label": "lazy_matrix_mul",
+        "kind": 2,
+        "importPath": "0x07-python-test_driven_development.101-lazy_matrix_mul",
+        "description": "0x07-python-test_driven_development.101-lazy_matrix_mul",
+        "peekOfCode": "def lazy_matrix_mul(m_a, m_b):\n    \"\"\"Return the multiplication of two matrices.\n    Args:\n        m_a (list of lists of ints/floats): The first matrix.\n        m_b (list of lists of ints/floats): The second matrix.\n    \"\"\"\n    return (np.matmul(m_a, m_b))",
+        "detail": "0x07-python-test_driven_development.101-lazy_matrix_mul",
+        "documentation": {}
+    },
+    {
+        "label": "matrix_divided",
+        "kind": 2,
+        "importPath": "0x07-python-test_driven_development.2-matrix_divided",
+        "description": "0x07-python-test_driven_development.2-matrix_divided",
+        "peekOfCode": "def matrix_divided(matrix, div):\n    \"\"\"Divide all elements of a matrix.\n    Args:\n        matrix (list): A list of lists of ints or floats.\n        div (int/float): The divisor.\n    Raises:\n        TypeError: If the matrix contains non-numbers.\n        TypeError: If the matrix contains rows of different sizes.\n        TypeError: If div is not an int or float.\n        ZeroDivisionError: If div is 0.",
+        "detail": "0x07-python-test_driven_development.2-matrix_divided",
+        "documentation": {}
+    },
+    {
+        "label": "say_my_name",
+        "kind": 2,
+        "importPath": "0x07-python-test_driven_development.3-say_my_name",
+        "description": "0x07-python-test_driven_development.3-say_my_name",
+        "peekOfCode": "def say_my_name(first_name, last_name=\"\"):\n    \"\"\"Print a name.\n    Args:\n        first_name (str): The first name to print.\n        last_name (str): The last name to print.\n    Raises:\n        TypeError: If either of first_name or last_name are not strings.\n    \"\"\"\n    if not isinstance(first_name, str):\n        raise TypeError(\"first_name must be a string\")",
+        "detail": "0x07-python-test_driven_development.3-say_my_name",
+        "documentation": {}
+    },
+    {
+        "label": "print_square",
+        "kind": 2,
+        "importPath": "0x07-python-test_driven_development.4-print_square",
+        "description": "0x07-python-test_driven_development.4-print_square",
+        "peekOfCode": "def print_square(size):\n    \"\"\"Print a square with the # character.\n    Args:\n        size (int): The height/width of the square.\n    Raises:\n        TypeError: If size is not an integer.\n        ValueError: If size is < 0\n    \"\"\"\n    if not isinstance(size, int):\n        raise TypeError(\"size must be an integer\")",
+        "detail": "0x07-python-test_driven_development.4-print_square",
+        "documentation": {}
+    },
+    {
+        "label": "text_indentation",
+        "kind": 2,
+        "importPath": "0x07-python-test_driven_development.5-text_indentation",
+        "description": "0x07-python-test_driven_development.5-text_indentation",
+        "peekOfCode": "def text_indentation(text):\n    \"\"\"Print text with two new lines after each '.', '?', and ':'.\n    Args:\n        text (string): The text to print.\n    Raises:\n        TypeError: If text is not a string.\n    \"\"\"\n    if not isinstance(text, str):\n        raise TypeError(\"text must be a string\")\n    c = 0",
+        "detail": "0x07-python-test_driven_development.5-text_indentation",
+        "documentation": {}
+    },
+    {
+        "label": "max_integer",
+        "kind": 2,
+        "importPath": "0x07-python-test_driven_development.6-max_integer",
+        "description": "0x07-python-test_driven_development.6-max_integer",
+        "peekOfCode": "def max_integer(list=[]):\n    \"\"\"Function to find and return the max integer in a list of integers\n        If the list is empty, the function returns None\n    \"\"\"\n    if len(list) == 0:\n        return None\n    result = list[0]\n    i = 1\n    while i < len(list):\n        if list[i] > result:",
+        "detail": "0x07-python-test_driven_development.6-max_integer",
+        "documentation": {}
+    },
+    {
+        "label": "Rectangle",
+        "kind": 6,
+        "importPath": "0x08-python-more_classes.0-rectangle",
+        "description": "0x08-python-more_classes.0-rectangle",
+        "peekOfCode": "class Rectangle:\n    \"\"\"\n    Create an empty Rectangle Object.\n    \"\"\"\n    pass",
+        "detail": "0x08-python-more_classes.0-rectangle",
+        "documentation": {}
+    },
+    {
+        "label": "Rectangle",
+        "kind": 6,
+        "importPath": "0x08-python-more_classes.1-rectangle",
+        "description": "0x08-python-more_classes.1-rectangle",
+        "peekOfCode": "class Rectangle:\n    \"\"\"Represent a rectangle.\"\"\"\n    def __init__(self, width=0, height=0):\n        \"\"\"Initialize a new Rectangle.\n        Args:\n            width (int): The width of the new rectangle.\n            height (int): The height of the new rectangle.\n        \"\"\"\n        self.width = width\n        self.height = height",
+        "detail": "0x08-python-more_classes.1-rectangle",
+        "documentation": {}
+    },
+    {
+        "label": "init_board",
+        "kind": 2,
+        "importPath": "0x08-python-more_classes.101-nqueens",
+        "description": "0x08-python-more_classes.101-nqueens",
+        "peekOfCode": "def init_board(n):\n    \"\"\"Initialize an `n`x`n` sized chessboard with 0's.\"\"\"\n    board = []\n    [board.append([]) for i in range(n)]\n    [row.append(' ') for i in range(n) for row in board]\n    return (board)\ndef board_deepcopy(board):\n    \"\"\"Return a deepcopy of a chessboard.\"\"\"\n    if isinstance(board, list):\n        return list(map(board_deepcopy, board))",
+        "detail": "0x08-python-more_classes.101-nqueens",
+        "documentation": {}
+    },
+    {
+        "label": "board_deepcopy",
+        "kind": 2,
+        "importPath": "0x08-python-more_classes.101-nqueens",
+        "description": "0x08-python-more_classes.101-nqueens",
+        "peekOfCode": "def board_deepcopy(board):\n    \"\"\"Return a deepcopy of a chessboard.\"\"\"\n    if isinstance(board, list):\n        return list(map(board_deepcopy, board))\n    return (board)\ndef get_solution(board):\n    \"\"\"Return the list of lists representation of a solved chessboard.\"\"\"\n    solution = []\n    for r in range(len(board)):\n        for c in range(len(board)):",
+        "detail": "0x08-python-more_classes.101-nqueens",
+        "documentation": {}
+    },
+    {
+        "label": "get_solution",
+        "kind": 2,
+        "importPath": "0x08-python-more_classes.101-nqueens",
+        "description": "0x08-python-more_classes.101-nqueens",
+        "peekOfCode": "def get_solution(board):\n    \"\"\"Return the list of lists representation of a solved chessboard.\"\"\"\n    solution = []\n    for r in range(len(board)):\n        for c in range(len(board)):\n            if board[r][c] == \"Q\":\n                solution.append([r, c])\n                break\n    return (solution)\ndef xout(board, row, col):",
+        "detail": "0x08-python-more_classes.101-nqueens",
+        "documentation": {}
+    },
+    {
+        "label": "xout",
+        "kind": 2,
+        "importPath": "0x08-python-more_classes.101-nqueens",
+        "description": "0x08-python-more_classes.101-nqueens",
+        "peekOfCode": "def xout(board, row, col):\n    \"\"\"X out spots on a chessboard.\n    All spots where non-attacking queens can no\n    longer be played are X-ed out.\n    Args:\n        board (list): The current working chessboard.\n        row (int): The row where a queen was last played.\n        col (int): The column where a queen was last played.\n    \"\"\"\n    # X out all forward spots",
+        "detail": "0x08-python-more_classes.101-nqueens",
+        "documentation": {}
+    },
+    {
+        "label": "recursive_solve",
+        "kind": 2,
+        "importPath": "0x08-python-more_classes.101-nqueens",
+        "description": "0x08-python-more_classes.101-nqueens",
+        "peekOfCode": "def recursive_solve(board, row, queens, solutions):\n    \"\"\"Recursively solve an N-queens puzzle.\n    Args:\n        board (list): The current working chessboard.\n        row (int): The current working row.\n        queens (int): The current number of placed queens.\n        solutions (list): A list of lists of solutions.\n    Returns:\n        solutions\n    \"\"\"",
+        "detail": "0x08-python-more_classes.101-nqueens",
+        "documentation": {}
+    },
+    {
+        "label": "Rectangle",
+        "kind": 6,
+        "importPath": "0x08-python-more_classes.2-rectangle",
+        "description": "0x08-python-more_classes.2-rectangle",
+        "peekOfCode": "class Rectangle:\n    '''class: Rectangle this is an empty class\n    '''\n    def __init__(self, width=0, height=0):\n        '''method: __init__\n        initialize instance of Rectangle\n        '''\n        self.__width = width\n        self.__height = height\n    @property",
+        "detail": "0x08-python-more_classes.2-rectangle",
+        "documentation": {}
+    },
+    {
+        "label": "Rectangle",
+        "kind": 6,
+        "importPath": "0x08-python-more_classes.3-rectangle",
+        "description": "0x08-python-more_classes.3-rectangle",
+        "peekOfCode": "class Rectangle:\n    \"\"\"Represent a rectangle.\"\"\"\n    def __init__(self, width=0, height=0):\n        \"\"\"Initialize a new Rectangle.\n        Args:\n            width (int): The width of the new rectangle.\n            height (int): The height of the new rectangle.\n        \"\"\"\n        self.width = width\n        self.height = height",
+        "detail": "0x08-python-more_classes.3-rectangle",
+        "documentation": {}
+    },
+    {
+        "label": "Rectangle",
+        "kind": 6,
+        "importPath": "0x08-python-more_classes.4-rectangle",
+        "description": "0x08-python-more_classes.4-rectangle",
+        "peekOfCode": "class Rectangle:\n    \"\"\"Represent a rectangle.\"\"\"\n    def __init__(self, width=0, height=0):\n        \"\"\"Initialize a new Rectangle.\n        Args:\n            width (int): The width of the new rectangle.\n            height (int): The height of the new rectangle.\n        \"\"\"\n        self.width = width\n        self.height = height",
+        "detail": "0x08-python-more_classes.4-rectangle",
+        "documentation": {}
+    },
+    {
+        "label": "Rectangle",
+        "kind": 6,
+        "importPath": "0x08-python-more_classes.5-rectangle",
+        "description": "0x08-python-more_classes.5-rectangle",
+        "peekOfCode": "class Rectangle:\n    '''class: Rectangle\n    this is an empty class, further additions in subsequent assignments\n    '''\n    def __init__(self, width=0, height=0):\n        '''method: __init__\n        initialize instance of class Rectangle\n        '''\n        self.__width = width\n        self.__height = height",
+        "detail": "0x08-python-more_classes.5-rectangle",
+        "documentation": {}
+    },
+    {
+        "label": "Rectangle",
+        "kind": 6,
+        "importPath": "0x08-python-more_classes.6-rectangle",
+        "description": "0x08-python-more_classes.6-rectangle",
+        "peekOfCode": "class Rectangle:\n    '''class: Rectangle\n    this is Rectangle class\n    '''\n    number_of_instances = 0\n    def __init__(self, width=0, height=0):\n        '''method: __init__\n        initialize instance of class\n        '''\n        Rectangle.number_of_instances += 1",
+        "detail": "0x08-python-more_classes.6-rectangle",
+        "documentation": {}
+    },
+    {
+        "label": "Rectangle",
+        "kind": 6,
+        "importPath": "0x08-python-more_classes.7-rectangle",
+        "description": "0x08-python-more_classes.7-rectangle",
+        "peekOfCode": "class Rectangle:\n    '''class: Rectangle\n    this is an empty class, further additions in subsequent assignments\n    '''\n    number_of_instances = 0\n    print_symbol = \"#\"\n    def __init__(self, width=0, height=0):\n        '''method: __init__\n        initialize instance of class Rectangle\n        '''",
+        "detail": "0x08-python-more_classes.7-rectangle",
+        "documentation": {}
+    },
+    {
+        "label": "Rectangle",
+        "kind": 6,
+        "importPath": "0x08-python-more_classes.8-rectangle",
+        "description": "0x08-python-more_classes.8-rectangle",
+        "peekOfCode": "class Rectangle:\n    \"\"\"Represent a rectangle.\n    Attributes:\n        number_of_instances (int): The number of Rectangle instances.\n        print_symbol (any): The symbol used for string representation.\n    \"\"\"\n    number_of_instances = 0\n    print_symbol = \"#\"\n    def __init__(self, width=0, height=0):\n        \"\"\"Initialize a new Rectangle.",
+        "detail": "0x08-python-more_classes.8-rectangle",
+        "documentation": {}
+    },
+    {
+        "label": "Rectangle",
+        "kind": 6,
+        "importPath": "0x08-python-more_classes.9-rectangle",
+        "description": "0x08-python-more_classes.9-rectangle",
+        "peekOfCode": "class Rectangle:\n    '''class: Rectangle\n    this is an empty class, further additions in subsequent assignments\n    '''\n    number_of_instances = 0\n    print_symbol = \"#\"\n    @classmethod\n    def square(cls, size=0):\n        '''class method: creates a square, which is a type of rectangle\n        '''",
+        "detail": "0x08-python-more_classes.9-rectangle",
+        "documentation": {}
+    },
+    {
+        "label": "magic_string",
+        "kind": 2,
+        "importPath": "0x09-python-everything_is_object.100-magic_string",
+        "description": "0x09-python-everything_is_object.100-magic_string",
+        "peekOfCode": "def magic_string():\n    magic_string.n = getattr(magic_string, 'n', 0) + 1\n    return (\"BestSchool, \" * (magic_string.n - 1) + \"BestSchool\")",
+        "detail": "0x09-python-everything_is_object.100-magic_string",
+        "documentation": {}
+    },
+    {
+        "label": "magic_string",
+        "kind": 5,
+        "importPath": "0x09-python-everything_is_object.100-main",
+        "description": "0x09-python-everything_is_object.100-main",
+        "peekOfCode": "magic_string = __import__('100-magic_string').magic_string\nfor i in range(10):\n    print(magic_string())",
+        "detail": "0x09-python-everything_is_object.100-main",
+        "documentation": {}
+    },
+    {
+        "label": "LockedClass",
+        "kind": 6,
+        "importPath": "0x09-python-everything_is_object.101-locked_class",
+        "description": "0x09-python-everything_is_object.101-locked_class",
+        "peekOfCode": "class LockedClass:\n    \"\"\"\n    Prevent the user from instantiating new LockedClass attributes\n    for anything but attributes called 'first_name'.\n    \"\"\"\n    __slots__ = [\"first_name\"]",
+        "detail": "0x09-python-everything_is_object.101-locked_class",
+        "documentation": {}
+    },
+    {
+        "label": "copy_list",
+        "kind": 2,
+        "importPath": "0x09-python-everything_is_object.19-copy_list",
+        "description": "0x09-python-everything_is_object.19-copy_list",
+        "peekOfCode": "def copy_list(l):\n    return l[:]",
+        "detail": "0x09-python-everything_is_object.19-copy_list",
+        "documentation": {}
+    },
+    {
+        "label": "lookup",
+        "kind": 2,
+        "importPath": "0x0A-python-inheritance.0-lookup",
+        "description": "0x0A-python-inheritance.0-lookup",
+        "peekOfCode": "def lookup(obj):\n    ''' function: lookup()\n    Returns a list object\n    '''\n    return dir(obj)",
+        "detail": "0x0A-python-inheritance.0-lookup",
+        "documentation": {}
+    },
+    {
+        "label": "MyList",
+        "kind": 6,
+        "importPath": "0x0A-python-inheritance.1-my_list",
+        "description": "0x0A-python-inheritance.1-my_list",
+        "peekOfCode": "class MyList(list):\n    ''' Represents a MyList\n    '''\n    def print_sorted(self):\n        '''\n        prints the list, but sorted\n        '''\n        print(sorted(self))",
+        "detail": "0x0A-python-inheritance.1-my_list",
+        "documentation": {}
+    },
+    {
+        "label": "Square",
+        "kind": 6,
+        "importPath": "0x0A-python-inheritance.10-square",
+        "description": "0x0A-python-inheritance.10-square",
+        "peekOfCode": "class Square(Rectangle):\n    \"\"\" Square Class \"\"\"\n    def __init__(self, size):\n        \"\"\" instantiation with size \"\"\"\n        self.__size = size\n        super().__init__(self.__size, self.__size)",
+        "detail": "0x0A-python-inheritance.10-square",
+        "documentation": {}
+    },
+    {
+        "label": "Rectangle",
+        "kind": 5,
+        "importPath": "0x0A-python-inheritance.10-square",
+        "description": "0x0A-python-inheritance.10-square",
+        "peekOfCode": "Rectangle = __import__('9-rectangle').Rectangle\n\"\"\"\nSquare class\n\"\"\"\nclass Square(Rectangle):\n    \"\"\" Square Class \"\"\"\n    def __init__(self, size):\n        \"\"\" instantiation with size \"\"\"\n        self.__size = size\n        super().__init__(self.__size, self.__size)",
+        "detail": "0x0A-python-inheritance.10-square",
+        "documentation": {}
+    },
+    {
+        "label": "MyInt",
+        "kind": 6,
+        "importPath": "0x0A-python-inheritance.100-my_int",
+        "description": "0x0A-python-inheritance.100-my_int",
+        "peekOfCode": "class MyInt(int):\n    \"\"\"Invert int operators == and !=.\"\"\"\n    def __eq__(self, value):\n        \"\"\"Override == opeartor with != behavior.\"\"\"\n        return self.real != value\n    def __ne__(self, value):\n        \"\"\"Override != operator with == behavior.\"\"\"\n        return self.real == value",
+        "detail": "0x0A-python-inheritance.100-my_int",
+        "documentation": {}
+    },
+    {
+        "label": "add_attribute",
+        "kind": 2,
+        "importPath": "0x0A-python-inheritance.101-add_attribute",
+        "description": "0x0A-python-inheritance.101-add_attribute",
+        "peekOfCode": "def add_attribute(obj, att, value):\n    \"\"\"Add a new attribute to an object if possible.\n    Args:\n        obj (any): The object to add an attribute to.\n        att (str): The name of the attribute to add to obj.\n        value (any): The value of att.\n    Raises:\n        TypeError: If the attribute cannot be added.\n    \"\"\"\n    if not hasattr(obj, \"__dict__\"):",
+        "detail": "0x0A-python-inheritance.101-add_attribute",
+        "documentation": {}
+    },
+    {
+        "label": "Square",
+        "kind": 6,
+        "importPath": "0x0A-python-inheritance.11-square",
+        "description": "0x0A-python-inheritance.11-square",
+        "peekOfCode": "class Square(Rectangle):\n    \"\"\" Square Class \"\"\"\n    def __init__(self, size):\n        \"\"\" size init\"\"\"\n        self.__size = size\n        super().__init__(self.__size, self.__size)\n    def __str__(self):\n        return (\"[Square] \" + str(self.__size) + \"/\" + str(self.__size))",
+        "detail": "0x0A-python-inheritance.11-square",
+        "documentation": {}
+    },
+    {
+        "label": "Rectangle",
+        "kind": 5,
+        "importPath": "0x0A-python-inheritance.11-square",
+        "description": "0x0A-python-inheritance.11-square",
+        "peekOfCode": "Rectangle = __import__('9-rectangle').Rectangle\n\"\"\"\nSquare class\n\"\"\"\nclass Square(Rectangle):\n    \"\"\" Square Class \"\"\"\n    def __init__(self, size):\n        \"\"\" size init\"\"\"\n        self.__size = size\n        super().__init__(self.__size, self.__size)",
+        "detail": "0x0A-python-inheritance.11-square",
+        "documentation": {}
+    },
+    {
+        "label": "is_same_class",
+        "kind": 2,
+        "importPath": "0x0A-python-inheritance.2-is_same_class",
+        "description": "0x0A-python-inheritance.2-is_same_class",
+        "peekOfCode": "def is_same_class(obj, a_class):\n    \"\"\"Check if an object is exactly an instance of a given class.\n    Args:\n        obj (any): The object to check.\n        a_class (type): The class to match the type of obj to.\n    Returns:\n        If obj is exactly an instance of a_class - True.\n        Otherwise - False.\n    \"\"\"\n    if type(obj) == a_class:",
+        "detail": "0x0A-python-inheritance.2-is_same_class",
+        "documentation": {}
+    },
+    {
+        "label": "is_kind_of_class",
+        "kind": 2,
+        "importPath": "0x0A-python-inheritance.3-is_kind_of_class",
+        "description": "0x0A-python-inheritance.3-is_kind_of_class",
+        "peekOfCode": "def is_kind_of_class(obj, a_class):\n    '''function: is_kind_of_class\n    obj: an object\n    a_class: a class\n    Returns: Bool\n    '''\n    return isinstance(obj, a_class)",
+        "detail": "0x0A-python-inheritance.3-is_kind_of_class",
+        "documentation": {}
+    },
+    {
+        "label": "inherits_from",
+        "kind": 2,
+        "importPath": "0x0A-python-inheritance.4-inherits_from",
+        "description": "0x0A-python-inheritance.4-inherits_from",
+        "peekOfCode": "def inherits_from(obj, a_class):\n    '''the object is an instance of a class that inherited (directly or indirectly)\n    obj: an object\n    a_class: a class\n    returns None\n    '''\n    return type(obj) != a_class and isinstance(obj, a_class)",
+        "detail": "0x0A-python-inheritance.4-inherits_from",
+        "documentation": {}
+    },
+    {
+        "label": "BaseGeometry",
+        "kind": 6,
+        "importPath": "0x0A-python-inheritance.5-base_geometry",
+        "description": "0x0A-python-inheritance.5-base_geometry",
+        "peekOfCode": "class BaseGeometry:\n    ''' Class: BaseGeometry\n    '''\n    pass",
+        "detail": "0x0A-python-inheritance.5-base_geometry",
+        "documentation": {}
+    },
+    {
+        "label": "BaseGeometry",
+        "kind": 6,
+        "importPath": "0x0A-python-inheritance.6-base_geometry",
+        "description": "0x0A-python-inheritance.6-base_geometry",
+        "peekOfCode": "class BaseGeometry:\n    \"\"\"Represent base geometry.\"\"\"\n    def area(self):\n        \"\"\"Not implemented.\"\"\"\n        raise Exception(\"area() is not implemented\")",
+        "detail": "0x0A-python-inheritance.6-base_geometry",
+        "documentation": {}
+    },
+    {
+        "label": "BaseGeometry",
+        "kind": 6,
+        "importPath": "0x0A-python-inheritance.7-base_geometry",
+        "description": "0x0A-python-inheritance.7-base_geometry",
+        "peekOfCode": "class BaseGeometry:\n    \"\"\"Reprsent base geometry.\"\"\"\n    def area(self):\n        \"\"\"Not yet implemented.\"\"\"\n        raise Exception(\"area() is not implemented\")\n    def integer_validator(self, name, value):\n        \"\"\"Validate a parameter as an integer.\n        Args:\n            name (str): The name of the parameter.\n            value (int): The parameter to validate.",
+        "detail": "0x0A-python-inheritance.7-base_geometry",
+        "documentation": {}
+    },
+    {
+        "label": "Rectangle",
+        "kind": 6,
+        "importPath": "0x0A-python-inheritance.8-rectangle",
+        "description": "0x0A-python-inheritance.8-rectangle",
+        "peekOfCode": "class Rectangle(BaseGeometry):\n    '''\n        Implements a rectangle\n    '''\n    def __init__(self, width, height):\n        self.integer_validator(\"width\", width)\n        self.integer_validator(\"height\", height)\n        self.__width = width\n        self.__height = height",
+        "detail": "0x0A-python-inheritance.8-rectangle",
+        "documentation": {}
+    },
+    {
+        "label": "BaseGeometry",
+        "kind": 5,
+        "importPath": "0x0A-python-inheritance.8-rectangle",
+        "description": "0x0A-python-inheritance.8-rectangle",
+        "peekOfCode": "BaseGeometry = __import__(\"7-base_geometry\").BaseGeometry\nclass Rectangle(BaseGeometry):\n    '''\n        Implements a rectangle\n    '''\n    def __init__(self, width, height):\n        self.integer_validator(\"width\", width)\n        self.integer_validator(\"height\", height)\n        self.__width = width\n        self.__height = height",
+        "detail": "0x0A-python-inheritance.8-rectangle",
+        "documentation": {}
+    },
+    {
+        "label": "Rectangle",
+        "kind": 6,
+        "importPath": "0x0A-python-inheritance.9-rectangle",
+        "description": "0x0A-python-inheritance.9-rectangle",
+        "peekOfCode": "class Rectangle(BaseGeometry):\n    \"\"\" definition of a Rectangle \"\"\"\n    def __init__(self, width, height):\n        \"\"\" constructor and width, height\"\"\"\n        self.__width = width\n        self.__height = height\n        BaseGeometry.integer_validator(self, \"width\", self.__width)\n        BaseGeometry.integer_validator(self, \"height\", self.__height)\n    def area(self):\n        return self.__width * self.__height",
+        "detail": "0x0A-python-inheritance.9-rectangle",
+        "documentation": {}
+    },
+    {
+        "label": "BaseGeometry",
+        "kind": 5,
+        "importPath": "0x0A-python-inheritance.9-rectangle",
+        "description": "0x0A-python-inheritance.9-rectangle",
+        "peekOfCode": "BaseGeometry = __import__('7-base_geometry').BaseGeometry\nclass Rectangle(BaseGeometry):\n    \"\"\" definition of a Rectangle \"\"\"\n    def __init__(self, width, height):\n        \"\"\" constructor and width, height\"\"\"\n        self.__width = width\n        self.__height = height\n        BaseGeometry.integer_validator(self, \"width\", self.__width)\n        BaseGeometry.integer_validator(self, \"height\", self.__height)\n    def area(self):",
+        "detail": "0x0A-python-inheritance.9-rectangle",
+        "documentation": {}
+    },
+    {
+        "label": "read_file",
+        "kind": 2,
+        "importPath": "0x0B-python-input_output.0-read_file",
+        "description": "0x0B-python-input_output.0-read_file",
+        "peekOfCode": "def read_file(filename=\"\"):\n    \"\"\"reads a text file (UTF8) and prints it to stdout\n    Returns none\n    \"\"\"\n    with open(filename, \"r\", encoding=\"utf-8\") as f:\n        print(f.read(), end=\"\")",
+        "detail": "0x0B-python-input_output.0-read_file",
+        "documentation": {}
+    },
+    {
+        "label": "number_of_lines",
+        "kind": 2,
+        "importPath": "0x0B-python-input_output.1-number_of_lines",
+        "description": "0x0B-python-input_output.1-number_of_lines",
+        "peekOfCode": "def number_of_lines(filename=\"\"):\n    ''' function: number_of_lines\n    '''\n    if filename == \"\" or type(filename) != str:\n        return 0\n    counter = 0\n    with open(filename, 'r') as f:\n        for line in f:\n            counter += 1\n    return counter",
+        "detail": "0x0B-python-input_output.1-number_of_lines",
+        "documentation": {}
+    },
+    {
+        "label": "write_file",
+        "kind": 2,
+        "importPath": "0x0B-python-input_output.1-write_file",
+        "description": "0x0B-python-input_output.1-write_file",
+        "peekOfCode": "def write_file(filename=\"\", text=\"\"):\n    \"\"\" module write_file\n    \"\"\"\n    with open(filename, 'w') as f:\n        return f.write(text)",
+        "detail": "0x0B-python-input_output.1-write_file",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "kind": 6,
+        "importPath": "0x0B-python-input_output.10-student",
+        "description": "0x0B-python-input_output.10-student",
+        "peekOfCode": "class Student:\n    \"\"\"Represent a student.\"\"\"\n    def __init__(self, first_name, last_name, age):\n        \"\"\"Initialize a new Student.\n        Args:\n            first_name (str): The first name of the student.\n            last_name (str): The last name of the student.\n            age (int): The age of the student.\n        \"\"\"\n        self.first_name = first_name",
+        "detail": "0x0B-python-input_output.10-student",
+        "documentation": {}
+    },
+    {
+        "label": "append_after",
+        "kind": 2,
+        "importPath": "0x0B-python-input_output.100-append_after",
+        "description": "0x0B-python-input_output.100-append_after",
+        "peekOfCode": "def append_after(filename=\"\", search_string=\"\", new_string=\"\"):\n    '''module Search and update\n    '''\n    with open(filename, 'r+') as f:\n        lines = f.readlines()\n        i = 0\n        for line in lines:\n            if line.find(search_string) is not -1:\n                lines.insert(i + 1, new_string)\n            i += 1",
+        "detail": "0x0B-python-input_output.100-append_after",
+        "documentation": {}
+    },
+    {
+        "label": "print_status",
+        "kind": 2,
+        "importPath": "0x0B-python-input_output.101-stats",
+        "description": "0x0B-python-input_output.101-stats",
+        "peekOfCode": "def print_status():\n    '''\n        Printing the status of the request\n    '''\n    counter = 0\n    size = 0\n    file_size = 0\n    status_codes = {\"200\": 0, \"301\": 0, \"400\": 0, \"401\": 0,\n                    \"403\": 0, \"404\": 0, \"405\": 0, \"500\": 0}\n    for l in sys.stdin:",
+        "detail": "0x0B-python-input_output.101-stats",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "kind": 6,
+        "importPath": "0x0B-python-input_output.11-student",
+        "description": "0x0B-python-input_output.11-student",
+        "peekOfCode": "class Student:\n    \"\"\"Represent a student.\"\"\"\n    def __init__(self, first_name, last_name, age):\n        \"\"\"Initialize a new Student.\n        Args:\n            first_name (str): The first name of the student.\n            last_name (str): The last name of the student.\n            age (int): The age of the student.\n        \"\"\"\n        self.first_name = first_name",
+        "detail": "0x0B-python-input_output.11-student",
+        "documentation": {}
+    },
+    {
+        "label": "pascal_triangle",
+        "kind": 2,
+        "importPath": "0x0B-python-input_output.12-pascal_triangle",
+        "description": "0x0B-python-input_output.12-pascal_triangle",
+        "peekOfCode": "def pascal_triangle(n):\n    \"\"\"Represent Pascal's Triangle of size n.\n    Returns a list of lists of integers representing the triangle.\n    \"\"\"\n    if n <= 0:\n        return []\n    triangles = [[1]]\n    while len(triangles) != n:\n        tri = triangles[-1]\n        tmp = [1]",
+        "detail": "0x0B-python-input_output.12-pascal_triangle",
+        "documentation": {}
+    },
+    {
+        "label": "append_write",
+        "kind": 2,
+        "importPath": "0x0B-python-input_output.2-append_write",
+        "description": "0x0B-python-input_output.2-append_write",
+        "peekOfCode": "def append_write(filename=\"\", text=\"\"):\n    \"\"\"Appends a string to the end of a UTF8 text file.\n    Args:\n        filename (str): The name of the file to append to.\n        text (str): The string to append to the file.\n    Returns:\n        The number of characters appended.\n    \"\"\"\n    with open(filename, \"a\", encoding=\"utf-8\") as f:\n        return f.write(text)",
+        "detail": "0x0B-python-input_output.2-append_write",
+        "documentation": {}
+    },
+    {
+        "label": "read_lines",
+        "kind": 2,
+        "importPath": "0x0B-python-input_output.2-read_lines",
+        "description": "0x0B-python-input_output.2-read_lines",
+        "peekOfCode": "def read_lines(filename=\"\", nb_lines=0):\n    ''' function: read_lines\n    '''\n    if filename == \"\" or type(filename) != str:\n        return\n    if type(nb_lines) != int:\n        return\n    counter = 0\n    with open(filename, \"r\") as f:\n        for line in f:",
+        "detail": "0x0B-python-input_output.2-read_lines",
+        "documentation": {}
+    },
+    {
+        "label": "to_json_string",
+        "kind": 2,
+        "importPath": "0x0B-python-input_output.3-to_json_string",
+        "description": "0x0B-python-input_output.3-to_json_string",
+        "peekOfCode": "def to_json_string(my_obj):\n    ''' module to_json_strin\n     returns JSON representation\n    '''\n    return json.dumps(my_obj)",
+        "detail": "0x0B-python-input_output.3-to_json_string",
+        "documentation": {}
+    },
+    {
+        "label": "from_json_string",
+        "kind": 2,
+        "importPath": "0x0B-python-input_output.4-from_json_string",
+        "description": "0x0B-python-input_output.4-from_json_string",
+        "peekOfCode": "def from_json_string(my_str):\n    ''' module from_json_string\n     returns Python objects\n    '''\n    return json.loads(my_str)",
+        "detail": "0x0B-python-input_output.4-from_json_string",
+        "documentation": {}
+    },
+    {
+        "label": "save_to_json_file",
+        "kind": 2,
+        "importPath": "0x0B-python-input_output.5-save_to_json_file",
+        "description": "0x0B-python-input_output.5-save_to_json_file",
+        "peekOfCode": "def save_to_json_file(my_obj, filename):\n    ''' module save_to_json_file\n    accepts Python object and sends JSON representation to file\n    '''\n    with open(filename, 'w') as f:\n        f.write(json.dumps(my_obj))",
+        "detail": "0x0B-python-input_output.5-save_to_json_file",
+        "documentation": {}
+    },
+    {
+        "label": "load_from_json_file",
+        "kind": 2,
+        "importPath": "0x0B-python-input_output.6-load_from_json_file",
+        "description": "0x0B-python-input_output.6-load_from_json_file",
+        "peekOfCode": "def load_from_json_file(filename):\n    \"\"\"Create a Python object from a JSON file.\"\"\"\n    with open(filename) as f:\n        return json.load(f)",
+        "detail": "0x0B-python-input_output.6-load_from_json_file",
+        "documentation": {}
+    },
+    {
+        "label": "class_to_json",
+        "kind": 2,
+        "importPath": "0x0B-python-input_output.8-class_to_json",
+        "description": "0x0B-python-input_output.8-class_to_json",
+        "peekOfCode": "def class_to_json(obj):\n    '''module class_to_json\n       returns builds a dictionary\n    '''\n    return obj.__dict__",
+        "detail": "0x0B-python-input_output.8-class_to_json",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "kind": 6,
+        "importPath": "0x0B-python-input_output.9-student",
+        "description": "0x0B-python-input_output.9-student",
+        "peekOfCode": "class Student:\n    '''module class student\n    '''\n    def __init__(self, first_name, last_name, age):\n        '''method __init__\n        '''\n        self.first_name = first_name\n        self.last_name = last_name\n        self.age = age\n    def to_json(self):",
+        "detail": "0x0B-python-input_output.9-student",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 6,
+        "importPath": "0x0C-python-almost_a_circle.models.base",
+        "description": "0x0C-python-almost_a_circle.models.base",
+        "peekOfCode": "class Base:\n    '''\n        This class will manage the id attribute for all the classes.\n        Arguments:\n            @id: The id for a specific instance.\n    '''\n    __nb_objects = 0\n    def __init__(self, id=None):\n        if id is not None:\n            self.id = id",
+        "detail": "0x0C-python-almost_a_circle.models.base",
+        "documentation": {}
+    },
+    {
+        "label": "Rectangle",
+        "kind": 6,
+        "importPath": "0x0C-python-almost_a_circle.models.rectangle",
+        "description": "0x0C-python-almost_a_circle.models.rectangle",
+        "peekOfCode": "class Rectangle(Base):\n    '''\n        Defining the Rectangle class\n        Inherits from:\n            Base\n    '''\n    def __init__(self, width, height, x=0, y=0, id=None):\n        self.width = width\n        self.height = height\n        self.x = x",
+        "detail": "0x0C-python-almost_a_circle.models.rectangle",
+        "documentation": {}
+    },
+    {
+        "label": "Square",
+        "kind": 6,
+        "importPath": "0x0C-python-almost_a_circle.models.square",
+        "description": "0x0C-python-almost_a_circle.models.square",
+        "peekOfCode": "class Square(Rectangle):\n    \"\"\"Module Representation of Square\n\"\"\"\n    def __init__(self, size, x=0, y=0, id=None):\n        \"\"\"Initialization a Square\n        \"\"\"\n        super().__init__(size, size, x, y, id)\n    @property\n    def size(self):\n        \"\"\"module Square size getter",
+        "detail": "0x0C-python-almost_a_circle.models.square",
+        "documentation": {}
+    },
+    {
+        "label": "TestRectangle",
+        "kind": 6,
+        "importPath": "0x0C-python-almost_a_circle.tests.rectangle_unitest",
+        "description": "0x0C-python-almost_a_circle.tests.rectangle_unitest",
+        "peekOfCode": "class TestRectangle(unittest.TestCase):\n    def test_rectangle_output(self):\n        \"\"\"Function to test the output the function rectangle\"\"\"\n        self.assertAlmostEqual(rectangle(,)\n    def test_rectangle_input(self):\n        \"\"\"Function to test the input the function rectangle\"\"\"\n        self.assertRaises(TypeError, rectangle, )",
+        "detail": "0x0C-python-almost_a_circle.tests.rectangle_unitest",
+        "documentation": {}
+    },
+    {
+        "label": "TestBase",
+        "kind": 6,
+        "importPath": "0x0C-python-almost_a_circle.tests.test_base",
+        "description": "0x0C-python-almost_a_circle.tests.test_base",
+        "peekOfCode": "class TestBase(unittest.TestCase):\n    \"\"\"\n    Class of functions to run tests\n    \"\"\"\n    def setUp(self):\n        \"\"\"\n        function to redirect stdout\n        \"\"\"\n        sys.stdout = StringIO()\n    def tearDown(self):",
+        "detail": "0x0C-python-almost_a_circle.tests.test_base",
+        "documentation": {}
+    },
+    {
+        "label": "find_peak",
+        "kind": 2,
+        "importPath": "0x10-python-network_0.6-peak",
+        "description": "0x10-python-network_0.6-peak",
+        "peekOfCode": "def find_peak(numbr):\n    '''\n        Finds the peak in a list of numbers\n    '''\n    length = len(numbr)\n    if length == 0:\n        return None\n    if length == 1:\n        return (numbr[0])\n    if length == 2:",
+        "detail": "0x10-python-network_0.6-peak",
+        "documentation": {}
+    }
+]
